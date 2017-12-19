@@ -1,5 +1,5 @@
 ---
-title: #FLOSS inventory
+title: floss
 ---
 
 # #FLOSS inventory
