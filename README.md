@@ -1,7 +1,7 @@
-
 # FLOSS inventory
 
 The FLOSS inventory lists all the Free Libre Open Source Software relevant to Europeana and the cultural heritage world.
+
 
 ---
 
@@ -14,8 +14,8 @@ Activity types: Preserving
 
 Development: University of Maryland Institute for Advanced Computer Sciences
 
-https://wiki.umiacs.umd.edu/adapt/index.php/Ace:Main
-https://wiki.umiacs.umd.edu/adapt/index.php/Ace:Audit_Manager_Installation_Guide
+https://wiki.umiacs.umd.edu/adapt/index.php/Ace:Main   
+https://wiki.umiacs.umd.edu/adapt/index.php/Ace:Audit_Manager_Installation_Guide   
 
 Categories: Digital Preservation
 
@@ -37,7 +37,7 @@ Activity types:  Preserving
 
 Development: Project Hydra
 
-https://github.com/projecthydra/active_fedora
+https://github.com/projecthydra/active_fedora   
 
 Categories: Collection Management
 
@@ -57,7 +57,7 @@ Activity types: Modifying,  Categorizing Browsing
 
 Development: ActiveTriples
 
-https://github.com/ActiveTriples/ActiveTriples
+https://github.com/ActiveTriples/ActiveTriples   
 
 Categories: Linked Open Data
 
@@ -74,8 +74,8 @@ Activity types: Producing, Transcribing, Collaborating, Retrieving, Subtitling
 
 Development: Participatory Culture Foundation
 
-http://www.amara.org/en/
-https://github.com/pculture/unisubs
+http://www.amara.org/en/   
+https://github.com/pculture/unisubs   
 
 Categories: Media Applications
 
@@ -97,8 +97,8 @@ Activity types: Producing, Recording, Presenting
 
 Development: Amplifon
 
-http://www.amplifon.co.uk/sounds-of-street-view/index.html
-https://github.com/Amplifon/Sounds-of-Street-View-Framework
+http://www.amplifon.co.uk/sounds-of-street-view/index.html   
+https://github.com/Amplifon/Sounds-of-Street-View-Framework   
 
 Categories: Exhibition Management, Geo-spatial applications, Media applications
 
@@ -115,8 +115,8 @@ Activity types: Annotating
 
 Development: Open Knowledge Foundation
 
-http://okfnlabs.org/annotator/
-https://github.com/okfn/annotator/
+http://okfnlabs.org/annotator/   
+https://github.com/okfn/annotator/   
 
 Categories: Data Annotation/Curation
 
@@ -137,8 +137,8 @@ Activity types: annotating
 
 Development: MIT
 
-http://www.annotationstudio.org/
-https://github.com/hyperstudio/Annotation-Studio
+http://www.annotationstudio.org/   
+https://github.com/hyperstudio/Annotation-Studio   
 
 Categories: Media Annotation/Tagging
 
@@ -158,8 +158,8 @@ Activity types:  Annotating, Commenting, Visualizing
 Development: Rainer Simon
 Peter Pilgerstorfer Paul Weichhart
 
-http://annotorious.github.io
-https://github.com/annotorious/annotorious
+http://annotorious.github.io   
+https://github.com/annotorious/annotorious   
 
 Categories: Media Annotation/Tagging
 
@@ -182,8 +182,8 @@ Activity types: Producing, Organizing, Data recognition, Annotating
 
 Development: The Apache Software Foundation
 
-http://pdfbox.apache.org/
-http://pdfbox.apache.org/downloads.html
+http://pdfbox.apache.org/   
+http://pdfbox.apache.org/downloads.html   
 
 Categories: Digital Asset Management , Collection Management
 
@@ -202,7 +202,7 @@ Activity types: Organizing, Content Analysis, Data recognition
 
 Development: Apache Software Foundation
 
-http://incubator.apache.org/stanbol/
+http://incubator.apache.org/stanbol/   
 
 Categories: Semantic Enrichment, Collection Management, Digital Asset Management
 
@@ -224,8 +224,8 @@ Activity types: Parsing, Data recognition
 
 Development: Apache Software Foundation
 
-http://tika.apache.org/
-http://tika.apache.org/download.html
+http://tika.apache.org/   
+http://tika.apache.org/download.html   
 
 Categories: Metadata Retrieval Services, Semantic Enrichment
 
@@ -246,8 +246,8 @@ Activity types: Preserving
 
 Development: Artefactual Systems Inc
 
-https://www.archivematica.org/
-https://github.com/artefactual/archivematica
+https://www.archivematica.org/   
+https://github.com/artefactual/archivematica   
 
 Categories: Digital Preservation
 
@@ -269,8 +269,8 @@ Activity types: Managing, Adding metainformation Preserving
 
 Development: Hudson Molonglo
 
-www.archivesspace.org
-https://github.com/archivesspace/archivesspace/wiki
+www.archivesspace.org   
+https://github.com/archivesspace/archivesspace/wiki   
 
 Categories: Collection Management
 
@@ -295,8 +295,8 @@ Activity types: Archiving, Extracting data
 
 Development: Guillaume Plique
 
-http://medialab.github.io/artoo/
-https://github.com/medialab/artoo
+http://medialab.github.io/artoo/   
+https://github.com/medialab/artoo   
 
 Categories: Metadata Retrieval Services
 
@@ -312,8 +312,8 @@ Activity types: Named entity recognition, POS Tagging, Extracting data
 
 Development: University of Leipzig 
 
-http://wortschatz.uni-leipzig.de/~cbiemann/software/toolbox/
-http://wortschatz.uni-leipzig.de/~cbiemann/software/toolbox/
+http://wortschatz.uni-leipzig.de/~cbiemann/software/toolbox/   
+http://wortschatz.uni-leipzig.de/~cbiemann/software/toolbox/   
 
 Categories: Collection Management, Ontology/Vocabulary Building and Management
 
@@ -329,8 +329,8 @@ Activity types: Managing, Archiving
 
 Development: Indiana University and Northwestern University
 
-http://www.avalonmediasystem.org
-https://github.com/avalonmediasystem
+http://www.avalonmediasystem.org   
+https://github.com/avalonmediasystem   
 
 Categories: Collection Management
 
@@ -349,8 +349,8 @@ Activity types: Imaging, Compressing
 
 Development: University of Innsbruck
 
-https://github.com/dea-uibk/BCT
-https://github.com/dea-uibk/BCT
+https://github.com/dea-uibk/BCT   
+https://github.com/dea-uibk/BCT   
 
 Categories: Publication, Image Search, Media Checker/Validation
 
@@ -378,8 +378,8 @@ Activity types: Direct accessing, Analyzing, Access Management, Adding metainfor
 
 Development: University of North Carolina at Chapel Hill
 
-http://access.bitcurator.net/index.php?title=Main_Page
-https://github.com/kamwoods/bca-webtools
+http://access.bitcurator.net/index.php?title=Main_Page   
+https://github.com/kamwoods/bca-webtools   
 
 Categories: Collection Management
 
@@ -397,8 +397,8 @@ Activity types: Comparing, Modifying
 Development: Library of Congress Network 
 Development and MARC Standards Office
 
-http://bibframe.org/
-https://github.com/lcnetdev/marc2bibframe
+http://bibframe.org/   
+https://github.com/lcnetdev/marc2bibframe   
 
 Categories: Metadata Checker/Validation, Metadata Mapping/Conversation/normalisation
 
@@ -416,8 +416,8 @@ RoR gem discovery interface for any Solr index
 Activity types: Browsing
 
 
-http://projectblacklight.org/
-https://github.com/projectblacklight/blacklight
+http://projectblacklight.org/   
+https://github.com/projectblacklight/blacklight   
 
 Categories: Search and Browsing
 
@@ -438,8 +438,8 @@ Activity types: Managing
 
 Development: Bob den Otter
 
-http://bolt.cm/
-https://github.com/bolt/bolt
+http://bolt.cm/   
+https://github.com/bolt/bolt   
 
 Categories: Collection Management
 
@@ -456,8 +456,8 @@ Activity types: Annotation
 
 Development: University of Tokyo 
 
-http://brat.nlplab.org/index.html
-https://github.com/nlplab/brat
+http://brat.nlplab.org/index.html   
+https://github.com/nlplab/brat   
 
 Categories: Data Annotation/Curation
 
@@ -476,8 +476,8 @@ Activity types: Adding metainformation,  Extracting metadata
 
 Development: FADGI
 
-http://bwfmetaedit.sourceforge.net/
-http://bwfmetaedit.sourceforge.net/Download/Source/
+http://bwfmetaedit.sourceforge.net/   
+http://bwfmetaedit.sourceforge.net/Download/Source/   
 
 Categories: Metadata Mapping/Conversion/normalisation, Metadata Checker/Validation, Digital Asset Management
 
@@ -497,8 +497,8 @@ Activity types: Imaging, Georeferencing
 
 Development: CARTO
 
-https://carto.com/
-https://github.com/CartoDB/cartodb
+https://carto.com/   
+https://github.com/CartoDB/cartodb   
 
 Categories: Geo-spatial Apllications
 
@@ -517,8 +517,8 @@ Activity types: Preserving
 
 Development: Nicolas Steenlant, Patrick Hochstenbach
 
-http://librecat.org/index.html
-https://github.com/librecat/catmandu/
+http://librecat.org/index.html   
+https://github.com/librecat/catmandu/   
 
 Categories: Metadata Retrieval Services, Metadata Mapping/Conversation/normalisation, Collection Management
 
@@ -539,8 +539,8 @@ Activity types: Imaging
 
 Development: AGI
 
-http://cesiumjs.org/index.html
-https://github.com/AnalyticalGraphicsInc/cesium
+http://cesiumjs.org/index.html   
+https://github.com/AnalyticalGraphicsInc/cesium   
 
 Categories: Geo-spatial Apllications
 
@@ -558,8 +558,8 @@ Activity types: Authoring,  Publishing
 
 Development: The Art Institute of Chicago and the Indianapolis Museum of Art.
 
-http://www.oscitoolkit.org/
-https://github.com/IMAmuseum/ChicagoCodeX
+http://www.oscitoolkit.org/   
+https://github.com/IMAmuseum/ChicagoCodeX   
 
 Categories: Exhibition Management, Collection Management
 
@@ -576,8 +576,8 @@ Activity types: Managing, Publishing, Resource Sharing
 
 Development: Open Knowledge Foundation
 
-http://ckan.org/
-https://github.com/ckan/ckan
+http://ckan.org/   
+https://github.com/ckan/ckan   
 
 Categories: Collection Management
 
@@ -599,8 +599,8 @@ Activity types: Annotating
 
 Development: The City of Glasgow College, The Open University and Reachwill Ltd
 
-http://blog.clippertube.com/index.php/clipper-prototype-3/
-https://github.com/reachwill/clipper
+http://blog.clippertube.com/index.php/clipper-prototype-3/   
+https://github.com/reachwill/clipper   
 
 Categories: Media Annotation/Tagging
 
@@ -617,8 +617,8 @@ Activity types: Speech recognition
 
 Development: Carnegie Mellon University
 
-http://cmusphinx.sourceforge.net/
-http://sourceforge.net/projects/cmusphinx/
+http://cmusphinx.sourceforge.net/   
+http://sourceforge.net/projects/cmusphinx/   
 
 Categories: Enriching metadata, Speech Recognition
 
@@ -634,8 +634,8 @@ Activity types: Managing
 
 Development: January 2014: Lyrasis is now the organizational home of CollectionSpace. (The project was initiated and led by Museum of the Moving Image.  Transition team includes developers based at University of California, Berkeley and Fluid Project at Ontario College of Art and Design; and Jesse Martinez, Freelance developer and Service Provider.)  Project Partners 2008-2013 included: University of California Berkeley, Fluid Project at Ontario College of Art and Design, and Centre for Applied Research in Educational Technologies (CARET) University of Cambridge. 
 
-www.collectionspace.org
- https://github.com/collectionspace/
+www.collectionspace.org   
+ https://github.com/collectionspace/   
 
 Categories: Collection Management
 
@@ -657,8 +657,8 @@ Activity types: Managing, Presenting, Adding meta-information
 
 Development: Whirl-i-Gig
 
-http://www.collectiveaccess.org/
-https://github.com/collectiveaccess
+http://www.collectiveaccess.org/   
+https://github.com/collectiveaccess   
 
 Categories: Collection Management, Content Retrival Services, Exhibition Management
 
@@ -679,8 +679,8 @@ Activity types: OCR
 
 Development: unknown
 
-http://conjecture.sourceforge.net/conjecture/index.php
-http://conjecture.sourceforge.net/conjecture/download.php
+http://conjecture.sourceforge.net/conjecture/index.php   
+http://conjecture.sourceforge.net/conjecture/download.php   
 
 Categories: Digital Asset Management
 
@@ -697,7 +697,7 @@ Activity types: Managing Preserving
 
 Development: Sirma Group (Sirma ITT and Ontotext). The project is led by the National Gallery of Art (Washington, D.C., USA) with participation from Yale University Special Collections Library, Courtauld Institute, British Museum, Indianapolis Museum of Art, Metropolitan Museum of Art, Statens Museum for Kunst, and the Denver Art Museum). 
 
-www.conservationspace.org
+www.conservationspace.org   
 
 Categories: Collection Management , Ontology/Vocabulary Building and Management
 
@@ -727,8 +727,8 @@ Activity types: Web-developing
 
 Development: LogiLab
 
-http://www.cubicweb.org/
-https://docs.cubicweb.org/book/admin/setup
+http://www.cubicweb.org/   
+https://docs.cubicweb.org/book/admin/setup   
 
 Categories: Collection Management, Semantic Extraction, Digital Asset Management
 
@@ -746,8 +746,8 @@ Activity types: Organizing
 
 Development: EBU
 
-http://ebu.io/project/cpa
-https://github.com/ebu/cpa-auth-provider
+http://ebu.io/project/cpa   
+https://github.com/ebu/cpa-auth-provider   
 
 Categories: Media Applications
 
@@ -765,7 +765,7 @@ Activity types: Collaborating
 
 Development: Jeremy Ottevanger
 
-http://ccgi.ottevanger.plus.com/cgi-bin/ez/index.php
+http://ccgi.ottevanger.plus.com/cgi-bin/ez/index.php   
 
 Categories: Content Retrieval Services, Metadata Retrival Services
 
@@ -784,8 +784,8 @@ Activity types: Imaging
 
 Development: Shawn Allen
 
-http://prag.ma/code/d3-cartogram/
-https://github.com/shawnbot/d3-cartogram/
+http://prag.ma/code/d3-cartogram/   
+https://github.com/shawnbot/d3-cartogram/   
 
 Categories: Geo-spatial Apllications, Data Visulaisation
 
@@ -804,8 +804,8 @@ Activity types: Managing, Visualizing
 
 Development: Dustin Ewers
 
-http://d3js.org/
-https://github.com/mbostock/d3/wiki
+http://d3js.org/   
+https://github.com/mbostock/d3/wiki   
 
 Categories: Data Visualization
 
@@ -823,8 +823,8 @@ Activity types: Resource sharing
 
 Development: Max Ogden
 
-http://dat-data.com/
-https://github.com/maxogden/dat
+http://dat-data.com/   
+https://github.com/maxogden/dat   
 
 Categories: Metadata Mapping/Conversion/normalisation, Collection Management
 
@@ -844,8 +844,8 @@ Activity types: Modifying, Categorizing, Browsing
 
 Development: Open Knowledge Foundation
 
-http://datapipes.okfnlabs.org/
-https://github.com/okfn/datapipes
+http://datapipes.okfnlabs.org/   
+https://github.com/okfn/datapipes   
 
 Categories: Metadata Mapping/Conversion/normalisation
 
@@ -870,8 +870,8 @@ Development: Pablo Mendes (Freie Universität Berlin), Jun 2010-present.
 Jo Daiber (Charles University in Prague), Mar 2011-present.
 Prof. Dr. Chris Bizer (Freie Universität Berlin),  supervisor, Jun 2010-present.
 
-https://github.com/dbpedia-spotlight/dbpedia-spotlight
-https://github.com/dbpedia-spotlight/dbpedia-spotlight
+https://github.com/dbpedia-spotlight/dbpedia-spotlight   
+https://github.com/dbpedia-spotlight/dbpedia-spotlight   
 
 Categories: Linked Open Data, Data Annotation/Curation
 
@@ -891,8 +891,8 @@ Activity types: Annotating, Managing
 
 Development: Juan Franciso Onielfa, Alejandro Peña
 
-http://www.fmomo.org
-http://www.fmomo.org/dedalo/pg/download.php
+http://www.fmomo.org   
+http://www.fmomo.org/dedalo/pg/download.php   
 
 Categories: Collection Management, Content Retrival Services
 
@@ -914,8 +914,8 @@ Activity types: Curating
 
 Development: Gregg, Forest, and Derek Eder
 
-https://github.com/datamade/dedupe
-https://github.com/datamade/dedupe
+https://github.com/datamade/dedupe   
+https://github.com/datamade/dedupe   
 
 Categories: Collection Management
 
@@ -937,8 +937,8 @@ Activity types: Preserving
 
 Development: Manuel Bernhardt, Gerald de Jong, Eric van der Meulen, Sjoerd Siebinga, Thomas Wikman, Juliane Stiller
 
-http://delving.eu
-https://github.com/delving
+http://delving.eu   
+https://github.com/delving   
 
 Categories: Metadata Mapping/Conversion/normalisation, Metadata Checker/Validation, Metadata Retrival Services
 
@@ -960,8 +960,8 @@ Activity types: Preserving
 
 Development: National Archives of Australia
 
-http://dpsp.sourceforge.net/
-http://dpsp.sourceforge.net/download.php
+http://dpsp.sourceforge.net/   
+http://dpsp.sourceforge.net/download.php   
 
 Categories: Digital Preservation
 
@@ -981,8 +981,8 @@ Activity types: Annotating
 
 Development: V&A Digital Media team
 
-http://vanda.github.io/DigitalLabels/
-http://vanda.github.io/DigitalLabels/
+http://vanda.github.io/DigitalLabels/   
+http://vanda.github.io/DigitalLabels/   
 
 Categories: Exhibition Management
 
@@ -1001,7 +1001,7 @@ Activity types: Annotating
 
 Development: OpenDHAT
 
-https://github.com/jamesosullivan/digitate
+https://github.com/jamesosullivan/digitate   
 
 Categories: Media Annotation/Tagging
 
@@ -1019,9 +1019,9 @@ Activity types: Editing,  Visualizing, Annotating
 
 Development: Max-Planck-Insitute for the History of Sciencethe University of Bern
 
-http://digilib.sourceforge.net/
+http://digilib.sourceforge.net/   
 https://sourceforge.net/p/digilib/code/ci/default/tree
-https://github.com/robcast/digilib
+https://github.com/robcast/digilib   
 
 Categories: Media Annotation/Tagging
 
@@ -1046,8 +1046,8 @@ Activity types: Modifying, Browsing
 
 Development: Distributed Digital Music Archives and Libraries
 
-http://ddmal.github.io/diva.js/about/
-https://github.com/DDMAL/diva.js
+http://ddmal.github.io/diva.js/about/   
+https://github.com/DDMAL/diva.js   
 
 Categories: Publication, Exhibition Management
 
@@ -1065,8 +1065,8 @@ Activity types: Browsing
 
 Development: The New York Times
 
-https://github.com/documentcloud/document-viewer
-https://github.com/documentcloud/document-viewer
+https://github.com/documentcloud/document-viewer   
+https://github.com/documentcloud/document-viewer   
 
 Categories: Media Applications
 
@@ -1087,8 +1087,8 @@ Activity types: Modifying
 
 Development: Jeremy Ashkenas, DocumentCloud
 
-http://documentcloud.github.io/docsplit/
-https://github.com/documentcloud/docsplit/
+http://documentcloud.github.io/docsplit/   
+https://github.com/documentcloud/docsplit/   
 
 Categories: Collection Management
 
@@ -1109,8 +1109,8 @@ Activity types: Preserving
 
 Development: DSpace Foundation
 
-http://www.dspace.org/
-https://github.com/DSpace/DSpace
+http://www.dspace.org/   
+https://github.com/DSpace/DSpace   
 
 Categories: Collection Management, Metadata Retrival Services, Repository Software
 
@@ -1132,8 +1132,8 @@ Activity types: Managing
 
 Development: Ethan Gruber, American Numismatic Society
 
-http://eaditor.blogspot.com/
-http://code.google.com/p/eaditor/
+http://eaditor.blogspot.com/   
+http://code.google.com/p/eaditor/   
 
 Categories: Collection Management, Metadata Retrival Services
 
@@ -1155,8 +1155,8 @@ Activity types: Presenting
 
 Development: Mark Jordan
 
-https://github.com/mjordan/easyLOD
-https://github.com/mjordan/easyLOD
+https://github.com/mjordan/easyLOD   
+https://github.com/mjordan/easyLOD   
 
 Categories: Linked Open Data, Metadata Retrival Services
 
@@ -1174,9 +1174,9 @@ A PHP library to quickly parse RDF. It supports URL redirect and simple "queries
 Activity types: Parsing, Data recognition 
 
 
-http://www.easyrdf.org/
+http://www.easyrdf.org/   
 http://www.easyrdf.org/downloads
-https://github.com/njh/easyrdf
+https://github.com/njh/easyrdf   
 
 Categories: Linked Open Data, Metadata Retrival Services
 
@@ -1194,8 +1194,8 @@ Activity types: Web-developing, Authoring
 
 Development: The Echonest in partnership with MusicBrainz
 
-http://echoprint.me/
-https://github.com/echonest/
+http://echoprint.me/   
+https://github.com/echonest/   
 
 Categories: Content Retrieval Services, Metadata Retrival Services
 
@@ -1215,8 +1215,8 @@ Activity types: Seeking
 
 Development: http://elasticsearch.com/about/team/
 
-http://www.elasticsearch.org/
-https://github.com/elasticsearch/elasticsearch
+http://www.elasticsearch.org/   
+https://github.com/elasticsearch/elasticsearch   
 
 Categories: Search and Browsing, Content Retrival Services, Metadata Retrival Services, Collection Management
 
@@ -1238,8 +1238,8 @@ Activity types: Managing
 
 Development: William Doering, Galadriel Chilton 
 
-http://murphylibrary.uwlax.edu/erm/
-murphylibrary.uwlax.edu/erm/
+http://murphylibrary.uwlax.edu/erm/   
+murphylibrary.uwlax.edu/erm/   
 
 Categories: Metadata Retrieval Services
 
@@ -1259,8 +1259,8 @@ Activity types: Seeking
 
 Development: Sergiu Gordia
 
-https://github.com/europeana/europeana-client/
-https://github.com/europeana/europeana-client/
+https://github.com/europeana/europeana-client/   
+https://github.com/europeana/europeana-client/   
 
 Categories: Metadata Retrieval Services, Linked Open Data
 
@@ -1276,8 +1276,8 @@ Activity types: Parsing
 
 Development: KB Research
 
-http://europeana-newspapers.eu/
-https://github.com/KBNLresearch/europeananp-ner
+http://europeana-newspapers.eu/   
+https://github.com/KBNLresearch/europeananp-ner   
 
 Categories: Metadata Retrieval Services, Semantic Extraction
 
@@ -1295,8 +1295,8 @@ Activity types: Named Entity Recognition
 
 Development: KBNL Research
 
-https://github.com/KBNLresearch/europeananp-dbpedia-disambiguation
-https://github.com/KBNLresearch/europeananp-dbpedia-disambiguation
+https://github.com/KBNLresearch/europeananp-dbpedia-disambiguation   
+https://github.com/KBNLresearch/europeananp-dbpedia-disambiguation   
 
 Categories: Metadata Retrieval Services, Media Annotation/Tagging
 
@@ -1312,8 +1312,8 @@ Activity types: Gathering, Harvesting
 
 Development: Wikimedia Sverige
 
-https://github.com/lokal-profil/EuropeanaHarvest
-https://github.com/lokal-profil/EuropeanaHarvest
+https://github.com/lokal-profil/EuropeanaHarvest   
+https://github.com/lokal-profil/EuropeanaHarvest   
 
 Categories: Metadata Retrieval Services
 
@@ -1329,8 +1329,8 @@ Activity types: Seeking
 
 Development: eXtensible Catalog Organization · University of Rochester
 
- http://www.extensiblecatalog.org/
-https://www.drupal.org/project/xc
+ http://www.extensiblecatalog.org/   
+https://www.drupal.org/project/xc   
 
 Categories: Collection Management, Search and Browsing, Linked Open Data
 
@@ -1349,8 +1349,8 @@ Activity types: Seeking
 
 Development: Sergiu Gordia
 
-https://github.com/europeana/Europeana-Creative/tree/master/image-similarity-client
-https://github.com/europeana/Europeana-Creative/tree/master/image-similarity-client
+https://github.com/europeana/Europeana-Creative/tree/master/image-similarity-client   
+https://github.com/europeana/Europeana-Creative/tree/master/image-similarity-client   
 
 Categories: Image Similarity
 
@@ -1367,8 +1367,8 @@ Activity types: Seeking,Managing, Resource sharing
 
 Development: PCSS Digital Libraries Team
 
-http://dl.psnc.pl/software/EXB/site/
-http://dl.psnc.pl/software/EXB/site/source-repository.html
+http://dl.psnc.pl/software/EXB/site/   
+http://dl.psnc.pl/software/EXB/site/source-repository.html   
 
 Categories: Metadata Retrieval Services
 
@@ -1385,8 +1385,8 @@ Activity types: Seeking, Managing, Resource sharing
 
 Development: Various
 
-http://www.open-ils.org/
-http://www.open-ils.org/downloads.php
+http://www.open-ils.org/   
+http://www.open-ils.org/downloads.php   
 
 Categories: Collection Management, Search and Browsing
 
@@ -1407,8 +1407,8 @@ Activity types: Adding Metainformation
 
 Development: Phil Harvey
 
-http://www.sno.phy.queensu.ca/~phil/exiftool/
-http://www.sno.phy.queensu.ca/~phil/exiftool/
+http://www.sno.phy.queensu.ca/~phil/exiftool/   
+http://www.sno.phy.queensu.ca/~phil/exiftool/   
 
 Categories: Metadata Retrival Services, Metadata Mapping/Conversation/normalisation, Metadata Checker/Validation
 
@@ -1425,8 +1425,8 @@ Activity types: Managing, Storing, Direct Accessing
 
 Development: various researchers at Cornell University
 
-http://fedora-commons.org/
-http://www.fedora-commons.org/software
+http://fedora-commons.org/   
+http://www.fedora-commons.org/software   
 
 Categories: Digital Asset Management, Content Retrival Services, Collection Management
 
@@ -1446,7 +1446,7 @@ Activity types: Migrating
 
 Development: Penn State
 
-https://github.com/projecthydra-labs/fedora-migrate
+https://github.com/projecthydra-labs/fedora-migrate   
 
 Categories: Collection Management
 
@@ -1463,8 +1463,8 @@ Activity types: Digitizing
 
 Development: NARA
 
-http://blogs.archives.gov/online-public-access/?p=6270
-https://github.com/Georgetown-University-Libraries/File-Analyzer
+http://blogs.archives.gov/online-public-access/?p=6270   
+https://github.com/Georgetown-University-Libraries/File-Analyzer   
 
 Categories: Digital Preservation, Metadata Mapping/Conversation/normalisation, Metadata Checker/Validation
 
@@ -1484,8 +1484,8 @@ Activity types: Parsing, Modifying
 
 Development: Dan Scott
 
-http://pear.php.net/package/File_MARC/
-http://pear.php.net/package/File_MARC/download
+http://pear.php.net/package/File_MARC/   
+http://pear.php.net/package/File_MARC/download   
 
 Categories: Collection Management
 
@@ -1510,8 +1510,8 @@ Activity types: Modifying, Managing
 
 Development: University of Innsbruck
 
-http://dbis-halvar.uibk.ac.at/dokuwiki/doku.php?id=main:structify
-https://github.com/dea-uibk/FRT
+http://dbis-halvar.uibk.ac.at/dokuwiki/doku.php?id=main:structify   
+https://github.com/dea-uibk/FRT   
 
 Categories: Content Retrieval Services, Digital Asset Management
 
@@ -1528,8 +1528,8 @@ Activity types: Managing
 
 Development: AudioVisual Preservation Solutions
 
-http://www.avpreserve.com/avpsresources/tools/
-https://github.com/avpreserve/fixity
+http://www.avpreserve.com/avpsresources/tools/   
+https://github.com/avpreserve/fixity   
 
 Categories: Metadata Mapping/Conversion/normalisation, Media Checker/Validation
 
@@ -1546,8 +1546,8 @@ Activity types: Imaging, Analysing
 
 Development: Texas A&M/Bryan Tarpley
 
-http://dh-emopweb.tamu.edu/Franken+/
-https://github.com/idhmc-tamu/FrankenPlus
+http://dh-emopweb.tamu.edu/Franken+/   
+https://github.com/idhmc-tamu/FrankenPlus   
 
 Categories: Collection Management
 
@@ -1566,8 +1566,8 @@ Activity types: Processing, Parsing, Name entity recognition
 
 Development: University of Tilburg
 
-http://ilk.uvt.nl/frog/
-http://software.ticc.uvt.nl/
+http://ilk.uvt.nl/frog/   
+http://software.ticc.uvt.nl/   
 
 Categories: Semantic Extraction
 
@@ -1587,8 +1587,8 @@ Activity types: Collaborating, Transcribing
 
 Development: Ben W. Brumfield
 
-http://beta.fromthepage.com/
-https://github.com/benwbrum/fromthepage
+http://beta.fromthepage.com/   
+https://github.com/benwbrum/fromthepage   
 
 Categories: Social Applications, Contextualisation
 
@@ -1607,8 +1607,8 @@ Activity types: Processing, Parsing, Name entity recognition
 
 Development: Various
 
-http://gate.ac.uk/
-http://gate.ac.uk/download/
+http://gate.ac.uk/   
+http://gate.ac.uk/download/   
 
 Categories: Alignment Tools, Metadata Mapping/Conversation/normalisation, Media Checker/Validation
 
@@ -1628,8 +1628,8 @@ Activity types: Georeferencing
 
 Development: Sergiu Gordea
 
-https://github.com/europeana/Europeana-Creative/tree/master/geomapping-web
-https://github.com/europeana/Europeana-Creative/tree/master/geomapping-web
+https://github.com/europeana/Europeana-Creative/tree/master/geomapping-web   
+https://github.com/europeana/Europeana-Creative/tree/master/geomapping-web   
 
 Categories: Geo-spatial Apllications
 
@@ -1647,8 +1647,8 @@ Activity types: Organizing
 
 Development: Getty
 
-http://vocab.getty.edu/
-http://vocab.getty.edu/ontology.html
+http://vocab.getty.edu/   
+http://vocab.getty.edu/ontology.html   
 
 Categories: Ontology/Vocabulary Building and Management, Linked Open Data
 
@@ -1667,8 +1667,8 @@ Activity types: Visualizing, Imaging
 
 Development: GIMP Team
 
-http://www.gimp.org/
-http://www.gimp.org/downloads/
+http://www.gimp.org/   
+http://www.gimp.org/downloads/   
 
 Categories: Media Annotation/Tagging
 
@@ -1688,8 +1688,8 @@ Activity types: Publishing, managing
 
 Development: The Guardian 
 
-https://github.com/guardian/grid
-https://github.com/guardian/grid
+https://github.com/guardian/grid   
+https://github.com/guardian/grid   
 
 Categories: Digital Asset Management, Media Applications, Publication
 
@@ -1708,8 +1708,8 @@ Activity types: Annotating, Accessing
 
 Development: Minneapolis Institute of Art
 
-https://github.com/artsmia/griot
-https://github.com/artsmia/griot
+https://github.com/artsmia/griot   
+https://github.com/artsmia/griot   
 
 Categories: Digital Asset Management, Collection Management, Media Applications
 
@@ -1728,8 +1728,8 @@ Activity types: Visualizing
 
 Development: Hadley Wickham
 
-http://ggplot2.org/
-https://github.com/hadley/ggplot2
+http://ggplot2.org/   
+https://github.com/hadley/ggplot2   
 
 Categories: Data Visualization
 
@@ -1747,8 +1747,8 @@ Activity types: Bibliographic Management
 
 Development:  Boris Jacob
 
-http://bhleurope.gbv.de/
-http://bhleurope.gbv.de/
+http://bhleurope.gbv.de/   
+http://bhleurope.gbv.de/   
 
 Categories: Metadata Retrieval Services
 
@@ -1766,8 +1766,8 @@ Activity types: Digitization, Managing
 
 Development: Goobi
 
-http://www.goobi.org/en/
-https://github.com/goobi
+http://www.goobi.org/en/   
+https://github.com/goobi   
 
 Categories: Collection Management, Media Checker/Validation, Digital Preservation
 
@@ -1786,8 +1786,8 @@ Activity types: Adding Metainformation, Programming
 
 Development: Christopher Gutteridge
 
-graphite.ecs.soton.ac.uk
-https://github.com/cgutteridge/Graphite
+graphite.ecs.soton.ac.uk   
+https://github.com/cgutteridge/Graphite   
 
 Categories: Collection Management
 
@@ -1805,8 +1805,8 @@ OCR free software and Ground Truthing tool: the gttext project extracts text fro
 Activity types: Imaging, OCR
 
 
-http://www.softocr.com/
-http://www.softocr.com/downloads
+http://www.softocr.com/   
+http://www.softocr.com/downloads   
 
 Categories: Metadata Retrieval Services
 
@@ -1824,7 +1824,7 @@ Activity types: Gathering
 
 Development: Digital Methods Initiative
 
-https://wiki.digitalmethods.net/Dmi/ToolHarvester
+https://wiki.digitalmethods.net/Dmi/ToolHarvester   
 
 Categories: Metadata Retrival Services
 
@@ -1846,8 +1846,8 @@ Activity types: Gathering, Adding Metainformation
 
 Development: DPLA
 
-https://digitalpubliclibraryofamerica.atlassian.net/wiki/display/TECH/Heidrun
-https://github.com/dpla/heidrun
+https://digitalpubliclibraryofamerica.atlassian.net/wiki/display/TECH/Heidrun   
+https://github.com/dpla/heidrun   
 
 Categories: Ingestion Tool
 
@@ -1865,8 +1865,8 @@ Hydra is a repository solution that is being used by institutions worldwide to p
 Activity types: Curating, Managing, Preservation 
 
 
-http://projecthydra.org/
-https://github.com/projecthydra
+http://projecthydra.org/   
+https://github.com/projecthydra   
 
 Categories: Digital Preservation, Digital Asset Management
 
@@ -1897,8 +1897,8 @@ Development:
 Heinz-Günter Kuper, Dr.,JML 	
 Jens-Martin Loebel, Dr.
 
-http://hyperimage.ws/en/team-en/
-http://sourceforge.net/p/hyperimage/hi3repos/ci/master/tree/
+http://hyperimage.ws/en/team-en/   
+http://sourceforge.net/p/hyperimage/hi3repos/ci/master/tree/   
 
 Categories: Media Annotation/Tagging
 
@@ -1918,8 +1918,8 @@ Activity types: Crowdsourcing, Annotating
 
 Development: Hypothesis
 
-https://hypothes.is/
-https://github.com/hypothesis/h
+https://hypothes.is/   
+https://github.com/hypothesis/h   
 
 Categories: Media Annotation/Tagging, Contextualisation
 
@@ -1938,8 +1938,8 @@ Activity types: Adding metainformation, Curating
 
 Development:  Artefactual Systems in collaboration with the ICA Program Commission (PCOM
 
-https://www.ica-atom.org/
-https://github.com/artefactual/atom
+https://www.ica-atom.org/   
+https://github.com/artefactual/atom   
 
 Categories: Collection Management, Repository Software
 
@@ -1961,8 +1961,8 @@ Activity types: Visualizing, Publishing
 
 Development: Ruven Pillay
 
-http://iipimage.sf.net
-https://github.com/ruven/iipsrv
+http://iipimage.sf.net   
+https://github.com/ruven/iipsrv   
 
 Categories: Exhibition Management, Media Applications
 
@@ -1983,8 +1983,8 @@ Activity types: Visualizing
 
 Development: Ruven Pillay
 
-http://iipimage.sourceforge.net
-https://github.com/ruven/iipmooviewer
+http://iipimage.sourceforge.net   
+https://github.com/ruven/iipmooviewer   
 
 Categories: Media Applications
 
@@ -2002,8 +2002,8 @@ Activity types: Visualizing
 
 Development: Wayne Rasband
 
-http://rsbweb.nih.gov/ij/docs/intro.html
-http://rsbweb.nih.gov/ij/download.html
+http://rsbweb.nih.gov/ij/docs/intro.html   
+http://rsbweb.nih.gov/ij/download.html   
 
 Categories: Media Checker/Validation, Digital Asset Management, Media Applications
 
@@ -2030,8 +2030,8 @@ Activity types: Visualizing
 
 Development: Lev Manovich, Matias Giachino, Jay Chow. 
 
-http://lab.softwarestudies.com/2014/03/how-to-visualize-4512-instagram-selfies.html?utm_content=buffer9ee7e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-http://rsbweb.nih.gov/ij/plugins/image-montage/index.html moved to https://github.com/culturevis
+http://lab.softwarestudies.com/2014/03/how-to-visualize-4512-instagram-selfies.html?utm_content=buffer9ee7e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer   
+http://rsbweb.nih.gov/ij/plugins/image-montage/index.html moved to https://github.com/culturevis   
 
 Categories: Media Applications, Exhibition Management
 
@@ -2047,10 +2047,10 @@ Activity types: Visualizing
 
 Development: Software Studies Initiative 
 
-http://lab.softwarestudies.com/p/imageplot.html#features1
+http://lab.softwarestudies.com/p/imageplot.html#features1   
 https://docs.google.com/document/d/1zkeik0v2LJmi1TOK4OxT7dVKJO7oCmx_fNP8SYdTG-U/edit?hl=en_US
 moved to https://github.com/culturevis
-
+   
 
 Categories: Media Applications
 
@@ -2066,8 +2066,8 @@ Activity types: Visualizing
 
 Development: AIT
 
-https://wordpress.org/plugins/image-twinning/
-https://wordpress.org/plugins/image-twinning/developers/
+https://wordpress.org/plugins/image-twinning/   
+https://wordpress.org/plugins/image-twinning/developers/   
 
 Categories: Image Similarity
 
@@ -2082,8 +2082,8 @@ The Internet Archive BookReader is used to view books from the Internet Archive 
 Activity types: Resource Sharing, Visualizing
 
 
-https://openlibrary.org/dev/docs/bookreader
-https://github.com/openlibrary/bookreader
+https://openlibrary.org/dev/docs/bookreader   
+https://github.com/openlibrary/bookreader   
 
 Categories: Content Retrieval Services
 
@@ -2103,8 +2103,8 @@ Activity types: Preserving
 
 Development: AudioVisual Preservation Solutions
 
-http://www.avpreserve.com/avpsresources/tools/
-https://github.com/avpreserve/interstitial
+http://www.avpreserve.com/avpsresources/tools/   
+https://github.com/avpreserve/interstitial   
 
 Categories: Digital Preservation, Media Checker/Validation
 
@@ -2120,8 +2120,8 @@ Activity types: Managing, Collaborating, Storing
 
 Development: The Islandora Foundation
 
-http://islandora.ca/
-https://github.com/Islandora
+http://islandora.ca/   
+https://github.com/Islandora   
 
 Categories: Digital Asset Management
 
@@ -2143,9 +2143,9 @@ Activity types: Processing, Preserving
 
 Development: JSTOR & the Harvard University Library
 
-http://openpreservation.org/technology/products/jhove/
+http://openpreservation.org/technology/products/jhove/   
 https://github.com/openpreserve/jhove
-
+   
 
 Categories: Digital Preservation, Media Annotation/Tagging
 
@@ -2212,8 +2212,8 @@ Activity types: Web-developing, Publishing
 
 Development: Kaltura
 
-http://corp.kaltura.com/
-https://github.com/kaltura/platform-install-packages#documentation-and-guides
+http://corp.kaltura.com/   
+https://github.com/kaltura/platform-install-packages#documentation-and-guides   
 
 Categories: Media Annotation/Tagging, Media Applications
 
@@ -2229,8 +2229,8 @@ Activity types: Communicating
 
 Development: Kamailio
 
-http://www.kamailio.org/w/
-https://github.com/kamailio/kamailio
+http://www.kamailio.org/w/   
+https://github.com/kamailio/kamailio   
 
 Categories: SIP
 
@@ -2247,8 +2247,8 @@ Activity types: Visualizing, Mapping, Capturing
 
 Development: Gregor Aisch
 
-http://kartograph.org/
-https://github.com/kartograph/kartograph.py and https://github.com/kartograph/kartograph.js
+http://kartograph.org/   
+https://github.com/kartograph/kartograph.py and https://github.com/kartograph/kartograph.js   
 
 Categories: Geo-spatial Apllications, Data Visulaisation
 
@@ -2277,8 +2277,8 @@ Activity types: Adding Metainformation
 
 Development: Various
 
-http://koha-community.org/
-http://git.koha-community.org/gitweb/
+http://koha-community.org/   
+http://git.koha-community.org/gitweb/   
 
 Categories: Metadata Retrieval Services, Search and Browsing 
 
@@ -2296,7 +2296,7 @@ Activity types: Enriching
 
 Development: Net7
 
-http://korbo.muruca.org/
+http://korbo.muruca.org/   
 
 Categories: Semantic Enrichment
 
@@ -2312,7 +2312,7 @@ Activity types: Adding metainformation
 
 Development: DPLA
 
-https://github.com/dpla/KriKri
+https://github.com/dpla/KriKri   
 
 Categories: Metadata Retrieval Services
 
@@ -2334,8 +2334,8 @@ Activity types: Managing, accessing
 
 Development: Kuali OLE https://www.kuali.org/ole/organization
 
-www.kuali.org/ole
-https://wiki.kuali.org/display/OLE/OLE+Published+Documentation
+www.kuali.org/ole   
+https://wiki.kuali.org/display/OLE/OLE+Published+Documentation   
 
 Categories: Collection Management
 
@@ -2353,8 +2353,8 @@ Activity types: Visualizing, Mapping
 
 Development: Vladimir Agafonkin
 
-http://leafletjs.com/
-https://github.com/Leaflet/Leaflet
+http://leafletjs.com/   
+https://github.com/Leaflet/Leaflet   
 
 Categories: Data Visualization, Geo-spatial Apllications
 
@@ -2371,8 +2371,8 @@ Activity types: Visualizing, Publishing
 
 Development: Jack Reed/Standford University
 
-https://github.com/mejackreed/Leaflet-IIIF
-https://github.com/mejackreed/Leaflet-IIIF
+https://github.com/mejackreed/Leaflet-IIIF   
+https://github.com/mejackreed/Leaflet-IIIF   
 
 Categories: Publication, Geo-spatial Apllications
 
@@ -2388,8 +2388,8 @@ Activity types: Contextualizing, Extracting metadata
 
 Development: Jaap Blom, NISV
 
-https://github.com/beeldengeluid/linkedtv-editortool
-https://github.com/beeldengeluid/linkedtv-editortool
+https://github.com/beeldengeluid/linkedtv-editortool   
+https://github.com/beeldengeluid/linkedtv-editortool   
 
 Categories: Metadata Retrieval Services, Digital Asset Management, Media Annotation/Tagging
 
@@ -2418,8 +2418,8 @@ Activity types: enriching
 
 Development: LoCloud
 
-http://www.locloud.eu/
-https://github.com/ixa-ehu/locloud_bglink
+http://www.locloud.eu/   
+https://github.com/ixa-ehu/locloud_bglink   
 
 Categories: Contextualisation, Linked Open Data
 
@@ -2436,8 +2436,8 @@ Activity types: Browisng
 
 Development: Diego Valerio Camarda e Silvia Mazzini (http://www.regesta.com/) , Alessandro Antonuccio (http://www.hstudio.it/) 
 
-http://en.lodlive.it/
-https://github.com/dvcama/LodLive
+http://en.lodlive.it/   
+https://github.com/dvcama/LodLive   
 
 Categories: Metadata Retrieval Services
 
@@ -2455,8 +2455,8 @@ Activity types: Browisng
 
 Development: dsd-sztaki-hu
 
-https://github.com/dsd-sztaki-hu/LODmilla-frontend
-https://github.com/dsd-sztaki-hu/LODmilla-frontend
+https://github.com/dsd-sztaki-hu/LODmilla-frontend   
+https://github.com/dsd-sztaki-hu/LODmilla-frontend   
 
 Categories: Search and Browsing, Linked Open Data
 
@@ -2473,8 +2473,8 @@ Activity types: Archiving,
 
 Development: Jon Stroop
 
-https://github.com/pulibrary/loris
-https://github.com/pulibrary/loris
+https://github.com/pulibrary/loris   
+https://github.com/pulibrary/loris   
 
 Categories: Media Applications
 
@@ -2491,8 +2491,8 @@ Activity types: Adding metainformation
 
 Development: Kevin Clarke, Bill Dueber, William Groppe,  Ross Singer,  Ed Summers
 
-http://marc.rubyforge.org/
-https://github.com/ruby-marc/ruby-marc/
+http://marc.rubyforge.org/   
+https://github.com/ruby-marc/ruby-marc/   
 
 Categories: Collection Management, Metadata Retrival Services
 
@@ -2513,8 +2513,8 @@ Activity types: Visualizing
 
 Development: Mauricio Giraldo Arteaga / New York Public Library Labs
 
-http://www.nypl.org/collections/labs
-https://github.com/NYPL/map-vectorizer
+http://www.nypl.org/collections/labs   
+https://github.com/NYPL/map-vectorizer   
 
 Categories: Metadata Retrieval Services, Geo-spatial Apllications
 
@@ -2529,8 +2529,8 @@ The MARCXML toolkit is a set of Java programs which allow users to convert to an
 Activity types: Conversioning
 
 
-http://www.loc.gov/standards/marcxml/
-http://www.loc.gov/standards/marcxml/
+http://www.loc.gov/standards/marcxml/   
+http://www.loc.gov/standards/marcxml/   
 
 Categories: Metadata Mapping/Conversion/normalisation
 
@@ -2549,8 +2549,8 @@ Activity types: Adding metainformation, Validating
 
 Development: AudioVisual Preservation Solutions
 
-http://www.avpreserve.com/avpsresources/tools/
-https://github.com/avpreserve/mdqc
+http://www.avpreserve.com/avpsresources/tools/   
+https://github.com/avpreserve/mdqc   
 
 Categories: Metadata Retrieval Services, Collection Management, Metadata Mapping/Conversation/normalisation
 
@@ -2566,7 +2566,7 @@ Activity types: Presenting
 
 Development: MediaArea
 
-http://mediainfo.sourceforge.net/en
+http://mediainfo.sourceforge.net/en   
 
 Categories: Ontology/Vocabulary Building and Management, Media Applications
 
@@ -2587,8 +2587,8 @@ Activity types: Managing, Presenting
 
 Development: MediaMosa
 
-www.mediamosa.org
-https://github.com/mediamosa
+www.mediamosa.org   
+https://github.com/mediamosa   
 
 Categories: Collection Management, Content Retrival Services, Media Applications
 
@@ -2610,8 +2610,8 @@ Activity types: Annotating, Collaborating, Analyzing
 
 Development: Columbia Center for New Media Teaching and Learning
 
-http://mediathread.info/content/about-mediathread
-https://github.com/ccnmtl/mediathread
+http://mediathread.info/content/about-mediathread   
+https://github.com/ccnmtl/mediathread   
 
 Categories: Media Annotation/Tagging, Interactive User Interface
 
@@ -2636,8 +2636,8 @@ Activity types: Processing, Presenting
 
 Development: Wikimedia
 
-https://www.mediawiki.org/wiki/MediaWiki
-https://www.mediawiki.org/wiki/Download
+https://www.mediawiki.org/wiki/MediaWiki   
+https://www.mediawiki.org/wiki/Download   
 
 Categories: Collection Management, Linked Open Data
 
@@ -2654,8 +2654,8 @@ Activity types: Processing, Archiving, Preserving
 
 Development: Michael Bond WVU Libraries
 
-https://github.com/wvulibraries/mfcs
-https://github.com/wvulibraries/mfcs
+https://github.com/wvulibraries/mfcs   
+https://github.com/wvulibraries/mfcs   
 
 Categories: Collection Management, Digital Asset Management, Digital Preservation
 
@@ -2673,8 +2673,8 @@ Activity types: Collecting, Adding metainformation, Aggregating
 
 Development: Katerina Komninou, Nasos Drosopoulos, Vasilis Tzouvaras, Anna Christaki, Arne Stabenau, Costas Pardalis, Fotis Xenikoudakis, Nikos Simou
 
-http://mint.image.ece.ntua.gr/
-https://github.com/mint-ntua/Mint-Athena
+http://mint.image.ece.ntua.gr/   
+https://github.com/mint-ntua/Mint-Athena   
 
 Categories: Metadata Mapping/Conversion/normalisation, Collection Management, Metadata Retrival Services
 
@@ -2695,8 +2695,8 @@ Activity types: Presenting
 
 Development: Stanford University
 
-http://projectmirador.org/
-https://github.com/IIIF/mirador
+http://projectmirador.org/   
+https://github.com/IIIF/mirador   
 
 Categories: Media Applications, Media Annotation/Tagging
 
@@ -2719,8 +2719,8 @@ Activity types: Encoding
 Development: Josh Aas,
 Mozilla research
 
-https://github.com/mozilla/mozjpeg
-https://github.com/mozilla/mozjpeg
+https://github.com/mozilla/mozjpeg   
+https://github.com/mozilla/mozjpeg   
 
 Categories: 
 
@@ -2738,8 +2738,8 @@ Activity types: Publishing
 
 Development: Glimworm IT
 
-http://muse-opensource.org/
-https://github.com/jonathanrcarter/muse-opensource/wiki
+http://muse-opensource.org/   
+https://github.com/jonathanrcarter/muse-opensource/wiki   
 
 Categories: Media Applications, Exhibition Management, Social Applications
 
@@ -2764,8 +2764,8 @@ Activity types: Seeking
 
 Development: MIT
 
-http://web.mit.edu/music21/
-https://code.google.com/p/music21/downloads/list
+http://web.mit.edu/music21/   
+https://code.google.com/p/music21/downloads/list   
 
 Categories: Data Visualization
 
@@ -2782,8 +2782,8 @@ Activity types: Managing, Publishing, Presenting
 
 Development: Adam Soroka
 
-http://neatline.org/
-https://github.com/scholarslab/Neatline
+http://neatline.org/   
+https://github.com/scholarslab/Neatline   
 
 Categories: Exhibition Management, Social Applications, Media Annotation/Tagging
 
@@ -2803,8 +2803,8 @@ Activity types: Machine Learning
 
 Development: Standford University
 
-http://cs.stanford.edu/people/karpathy/deepimagesent/
-https://github.com/karpathy/neuraltalk
+http://cs.stanford.edu/people/karpathy/deepimagesent/   
+https://github.com/karpathy/neuraltalk   
 
 Categories: Media Applications, Media Checker/Validation
 
@@ -2830,8 +2830,8 @@ Activity types: Managing
 
 Development: Museum Victoria 
 
-http://nodel.io/
-https://github.com/museumvictoria/nodel
+http://nodel.io/   
+https://github.com/museumvictoria/nodel   
 
 Categories: Collection Management, Exhibition Management
 
@@ -2848,8 +2848,8 @@ NotreDAM is a multi-user, web-based Digital Asset Management platform
 Activity types: Managing
 
 
-www.notredam.org
-http://code.google.com/p/notredam/
+www.notredam.org   
+http://code.google.com/p/notredam/   
 
 Categories: Collection Management, Digital Asset Management, Metadata Retrival Services
 
@@ -2867,8 +2867,8 @@ Activity types: Managing
 
 Development: Ethan Gruber, American Numismatic Society
 
-http://numishare.blogspot.com/
-https://github.com/ewg118/numishare
+http://numishare.blogspot.com/   
+https://github.com/ewg118/numishare   
 
 Categories: Collection Management, Metadata Mapping/Conversation/normalisation, Exhibition Management
 
@@ -2889,8 +2889,8 @@ Activity types: Managing
 
 Development: Nuxeo
 
-http://www.nuxeo.com
-http://nuxeo.github.io/
+http://www.nuxeo.com   
+http://nuxeo.github.io/   
 
 Categories: Collection Management, Content Retrival Services, Digital Asset Management
 
@@ -2910,8 +2910,8 @@ Activity types: Data Recognition
 
 Development: Kevin Kwok
 
-http://antimatter15.github.io/ocrad.js/demo.html
-https://github.com/antimatter15/ocrad.js
+http://antimatter15.github.io/ocrad.js/demo.html   
+https://github.com/antimatter15/ocrad.js   
 
 Categories: Content Retrieval Services, Digital Asset Management, Image Similarity
 
@@ -2929,8 +2929,8 @@ Activity types: Visualizing
 
 Development: OpenLayers
 
-http://openlayers.org/
-https://github.com/openlayers/ol3
+http://openlayers.org/   
+https://github.com/openlayers/ol3   
 
 Categories: Geo-spatial Apllications
 
@@ -2948,8 +2948,8 @@ Activity types: Visualizing
 
 Development: OpenLayers
 
-http://blog.klokantech.com/2014/11/ol3-cesium-third-dimension-for.html
-https://github.com/openlayers/ol3-cesium
+http://blog.klokantech.com/2014/11/ol3-cesium-third-dimension-for.html   
+https://github.com/openlayers/ol3-cesium   
 
 Categories: Geo-spatial Apllications
 
@@ -2967,8 +2967,8 @@ Activity types: Publishing
 
 Development: Roy Rosenzweig Center for History and New Media, George Mason University
 
-http://omeka.org/
-https://github.com/omeka/Omeka
+http://omeka.org/   
+https://github.com/omeka/Omeka   
 
 Categories: Exhibition Management, Collection Management
 
@@ -2986,7 +2986,7 @@ Activity types: Publishing
 
 Development: Roy Rosenzweig Center for History and New Media, George Mason University
 
-https://github.com/omeka/omeka-s/
+https://github.com/omeka/omeka-s/   
 
 Categories: Exhibition Management
 
@@ -3003,8 +3003,8 @@ Activity types: Publishing
 
 Development: Center for History and New Media, George Mason University
 
-http://omeka.org/codex/Plugins/Contribution
-https://github.com/omeka/plugin-Contribution
+http://omeka.org/codex/Plugins/Contribution   
+https://github.com/omeka/plugin-Contribution   
 
 Categories: Exhibition Management, Interactive User Interface, Social Applications
 
@@ -3021,8 +3021,8 @@ Activity types: Collaborating
 
 Development: Ideum
 
-http://openexhibits.org/
-https://github.com/ideum
+http://openexhibits.org/   
+https://github.com/ideum   
 
 Categories: Interactive User Interface, Exhibition Management
 
@@ -3039,8 +3039,8 @@ Activity types: Seeking
 
 Development: Open Knowledge Foundation
 
-http://licenses.opendefinition.org/
-http://licenses.opendefinition.org/
+http://licenses.opendefinition.org/   
+http://licenses.opendefinition.org/   
 
 Categories: Linked Open Data, Content Retrival Services
 
@@ -3057,8 +3057,8 @@ Activity types: Managing, Editing, Cataloguing, Producing, Publishing
 
 Development: Public Knowledge Project
 
-https://pkp.sfu.ca/omp/
-https://pkp.sfu.ca/omp/omp_documentation/
+https://pkp.sfu.ca/omp/   
+https://pkp.sfu.ca/omp/omp_documentation/   
 
 Categories: Collection Management
 
@@ -3074,8 +3074,8 @@ An open-source, web-based viewer for zoomable images, implemented in pure JavaSc
 Activity types: Editing, Browsing
 
 
-http://openseadragon.github.io/
-https://github.com/openseadragon/openseadragon
+http://openseadragon.github.io/   
+https://github.com/openseadragon/openseadragon   
 
 Categories: Media Applications
 
@@ -3095,8 +3095,8 @@ Activity types: Retrieving
 
 Development: Europeana
 
-https://github.com/europeana/openskos-client-ruby
-https://github.com/europeana/openskos-client-ruby
+https://github.com/europeana/openskos-client-ruby   
+https://github.com/europeana/openskos-client-ruby   
 
 Categories: Linked Open Data
 
@@ -3113,8 +3113,8 @@ Activity types: Data Recognition, Extracting Data
 
 Development: Cooper Hewitt
 
-http://labs.cooperhewitt.org/2013/giv-do/
-https://github.com/cooperhewitt/palette-server
+http://labs.cooperhewitt.org/2013/giv-do/   
+https://github.com/cooperhewitt/palette-server   
 
 Categories: Content Retrieval Services, Search and Browsing, Image Search
 
@@ -3131,8 +3131,8 @@ Activity types: Conversioning
 
 Development: Lu Wang
 
-http://coolwanglu.github.io/pdf2htmlEX/
-https://github.com/coolwanglu/pdf2htmlEX
+http://coolwanglu.github.io/pdf2htmlEX/   
+https://github.com/coolwanglu/pdf2htmlEX   
 
 Categories: Semantic Extraction, Publication
 
@@ -3152,8 +3152,8 @@ Activity types: Machine Learning, Extracting Data
 
 Development: Yusuke Shinyama
 
-https://euske.github.io/pdfminer/
-https://github.com/euske/pdfminer/
+https://euske.github.io/pdfminer/   
+https://github.com/euske/pdfminer/   
 
 Categories: Content Retrieval Services, Semantic Extraction
 
@@ -3172,7 +3172,7 @@ Activity types: Seeking
 
 Development: Pencil Case
 
-http://pencilcaseapp.com/
+http://pencilcaseapp.com/   
 
 Categories: Collection Management, Digital Asset Management
 
@@ -3189,8 +3189,8 @@ Activity types: Resource Sharing
 
 Development: EngageMedia in collaboration with Unweb.me
 
-http://blog.plumi.org/
-https://github.com/plumi/plumi.app
+http://blog.plumi.org/   
+https://github.com/plumi/plumi.app   
 
 Categories: Exhibition Management, Media Applications
 
@@ -3210,8 +3210,8 @@ Activity types: Web-developing
 
 Development: Mozilla
 
-http://popcornjs.org/
-https://github.com/mozilla/popcorn-js
+http://popcornjs.org/   
+https://github.com/mozilla/popcorn-js   
 
 Categories: Media Applications
 
@@ -3232,7 +3232,7 @@ Activity types: Analyzing
 Development: Manolis Lourakis (FORTH)
 The development of posest has been partially supported by the EC FP7 programme under grant no. 270138 DARWIN
 
-http://users.ics.forth.gr/~lourakis/posest/
+http://users.ics.forth.gr/~lourakis/posest/   
 
 Categories: Media Applications
 
@@ -3250,8 +3250,8 @@ Activity types: Annotating
 
 Development: Net7
 
-http://thepund.it
-https://github.com/net7/pundit2
+http://thepund.it   
+https://github.com/net7/pundit2   
 
 Categories: Semantic Enrichment, Data Annotation/Curation, Linked Open Data
 
@@ -3270,8 +3270,8 @@ Activity types: Filtering
 
 Development: Open Knowledge Foundation
 
-http://publicdomainworks.net/
-https://github.com/okfn/pdcalc
+http://publicdomainworks.net/   
+https://github.com/okfn/pdcalc   
 
 Categories: Search and Browsing, Content Retrival Services, Metadata Retrival Services
 
@@ -3290,8 +3290,8 @@ Development: Shuttleworth
 OKFN
 Scifabric
 
-http://www.pybossa.com
-https://github.com/PyBossa/pybossa
+http://www.pybossa.com   
+https://github.com/PyBossa/pybossa   
 
 Categories: Digital Asset Management, Media Annotation/Tagging, Social Applications
 
@@ -3310,8 +3310,8 @@ Activity types: Organizing, Bibliographic Management
 
 Development: Gabriel Farrell, Mark Matienzo, Geoffrey Spear, Ed Summers
 
-http://pypi.python.org/pypi/pymarc
-https://github.com/edsu/pymarc
+http://pypi.python.org/pypi/pymarc   
+https://github.com/edsu/pymarc   
 
 Categories: Data Annotation/Curation
 
@@ -3329,8 +3329,8 @@ Activity types: Consulting
 
 Development: Gideon Greenspan
 
-http://www.question2answer.org/
-https://github.com/q2a/question2answer
+http://www.question2answer.org/   
+https://github.com/q2a/question2answer   
 
 Categories: Collection Management
 
@@ -3349,8 +3349,8 @@ Activity types: Browsing
 
 Development: Christopher Gutteridge & University of Southampton
 
-http://graphite.ecs.soton.ac.uk/browser/
-http://graphite.ecs.soton.ac.uk/download.php/browser.php
+http://graphite.ecs.soton.ac.uk/browser/   
+http://graphite.ecs.soton.ac.uk/download.php/browser.php   
 
 Categories: Content Retrieval Services, Semantic Extraction
 
@@ -3372,8 +3372,8 @@ Activity types: Managing
 
 Development: Razuna
 
-http://razuna.org/
-https://github.com/razuna/razuna
+http://razuna.org/   
+https://github.com/razuna/razuna   
 
 Categories: Digital Asset Management
 
@@ -3390,8 +3390,8 @@ Activity types: Validating, Extracting Data
 
 Development: Fadi Maali and Richard Cyganiak
 
-refine.deri.ie
-https://github.com/fadmaa/grefine-rdf-extension
+refine.deri.ie   
+https://github.com/fadmaa/grefine-rdf-extension   
 
 Categories: Data Visualization, Collection Management
 
@@ -3408,8 +3408,8 @@ Activity types: Managing
 
 Development: Arto Bendiken, Ben Lavender, Gregg Kellogg
 
-https://rubygems.org/gems/rdf
-https://github.com/ruby-rdf/rdf
+https://rubygems.org/gems/rdf   
+https://github.com/ruby-rdf/rdf   
 
 Categories: Collection Management
 
@@ -3426,8 +3426,8 @@ Activity types: Seeking, Visualizing
 
 Development: Rufus Pollock
 
-https://chrome.google.com/webstore/detail/recline-csv-viewer/ibfcfelnbfhlbpelldnngdcklnndhael
-https://github.com/rgrp/chrome-csv-viewer
+https://chrome.google.com/webstore/detail/recline-csv-viewer/ibfcfelnbfhlbpelldnngdcklnndhael   
+https://github.com/rgrp/chrome-csv-viewer   
 
 Categories: Data Visualization
 
@@ -3444,8 +3444,8 @@ Activity types: Programming
 
 Development: Max Ogden, Rufus Pollock
 
-http://reclinejs.com/
-https://github.com/okfn/recline
+http://reclinejs.com/   
+https://github.com/okfn/recline   
 
 Categories: Infrastructure
 
@@ -3463,8 +3463,8 @@ A metadata record management system written in PHP, intended to be used in conju
 Activity types: Managing
 
 
-https://github.com/KDK-Alli/RecordManager
-https://github.com/KDK-Alli/RecordManager/wiki
+https://github.com/KDK-Alli/RecordManager   
+https://github.com/KDK-Alli/RecordManager/wiki   
 
 Categories: Collection Management
 
@@ -3480,7 +3480,7 @@ Activity types: Managing, Locating
 
 Development: Simon Fraser University Library
 
-http://researcher.sfu.ca/
+http://researcher.sfu.ca/   
 
 Categories: Search and Browsing, Digital Asset Management
 
@@ -3497,8 +3497,8 @@ Activity types: Managing
 
 Development: Montala (under contract with Oxfam)
 
-http://www.resourcespace.org
-http://svn.montala.net/svn/resourcespace
+http://www.resourcespace.org   
+http://svn.montala.net/svn/resourcespace   
 
 Categories: Collection Management, Digital Asset Management
 
@@ -3518,8 +3518,8 @@ Activity types: Web-developing, Presenting
 
 Development: Conal Tuohy
 
-https://github.com/Conal-Tuohy/Retailer
-https://github.com/Conal-Tuohy/Retailer
+https://github.com/Conal-Tuohy/Retailer   
+https://github.com/Conal-Tuohy/Retailer   
 
 Categories: Metadata Retrieval Services
 
@@ -3536,8 +3536,8 @@ Activity types: Seeking, Archiving,  Presenting
 
 Development: http://www.roundware.org/category/team/
 
-http://www.roundware.org/
-https://github.com/hburgund/roundware-server
+http://www.roundware.org/   
+https://github.com/hburgund/roundware-server   
 
 Categories: Digital Asset Management
 
@@ -3554,8 +3554,8 @@ Activity types: Parsing, Producing, Managing
 
 Development: University of Michigan
 
-https://github.com/ruby-marc/ruby-marc
-https://github.com/ruby-marc/ruby-marc
+https://github.com/ruby-marc/ruby-marc   
+https://github.com/ruby-marc/ruby-marc   
 
 Categories: Digital Asset Management
 
@@ -3573,8 +3573,8 @@ Activity types: Visualizing
 
 Development: British Library
 
-http://sanddragon.bl.uk/#home
-https://github.com/britishlibrary/SanddragonImageService
+http://sanddragon.bl.uk/#home   
+https://github.com/britishlibrary/SanddragonImageService   
 
 Categories: Exhibition Management, Media Applications
 
@@ -3592,8 +3592,8 @@ Activity types: Managing, Browsing
 
 Development: British Library
 
-http://sanddragon.bl.uk/#home
-https://github.com/britishlibrary/SanddragonItemViewer
+http://sanddragon.bl.uk/#home   
+https://github.com/britishlibrary/SanddragonItemViewer   
 
 Categories: Exhibition Management
 
@@ -3611,8 +3611,8 @@ Activity types: Managing, Browsing
 
 Development: British Library
 
-http://sanddragon.bl.uk/#home
-https://github.com/britishlibrary/SanddragonWidget
+http://sanddragon.bl.uk/#home   
+https://github.com/britishlibrary/SanddragonWidget   
 
 Categories: Exhibition Management
 
@@ -3630,8 +3630,8 @@ Activity types: Machine Learning
 
 Development: David Cournapeau, Google
 
-http://scikit-learn.org/stable/
-https://github.com/scikit-learn/scikit-learn
+http://scikit-learn.org/stable/   
+https://github.com/scikit-learn/scikit-learn   
 
 Categories: Metadata Retrieval Services, Data Visulaisation
 
@@ -3649,8 +3649,8 @@ Activity types: Visualizing
 
 Development: David Oliveri
 
-https://github.com/davideoliveri/ScoreToChart/
-https://github.com/davideoliveri/ScoreToChart/
+https://github.com/davideoliveri/ScoreToChart/   
+https://github.com/davideoliveri/ScoreToChart/   
 
 Categories: Data Visualization
 
@@ -3669,8 +3669,8 @@ Activity types: Managing
 
 Development: Harvard Library Innovation Lab
 
-http://shelf.io/
-https://github.com/harvard-lil/shelfio
+http://shelf.io/   
+https://github.com/harvard-lil/shelfio   
 
 Categories: Data Visualization, Linked Open Data, Social Applications
 
@@ -3687,7 +3687,7 @@ Activity types: Annotating
 
 Development: Columbia Center for New Media Teaching and Learning
 
-https://github.com/ccnmtl/SherdJS
+https://github.com/ccnmtl/SherdJS   
 
 Categories: Media Annotation/Tagging
 
@@ -3704,8 +3704,8 @@ Activity types: Editing
 
 Development: Strahinja Marković, John Schember
 
-http://sigil-ebook.com/
-https://github.com/user-none/Sigil
+http://sigil-ebook.com/   
+https://github.com/user-none/Sigil   
 
 Categories: Publication
 
@@ -3722,8 +3722,8 @@ Activity types: Measuring
 
 Development: Cooper Hewitt
 
-http://labs.cooperhewitt.org/2013/default-sort-or-what-would-shannon-do/
-https://github.com/cooperhewitt/shannon-server
+http://labs.cooperhewitt.org/2013/default-sort-or-what-would-shannon-do/   
+https://github.com/cooperhewitt/shannon-server   
 
 Categories: Digital Asset Management, Image Search
 
@@ -3739,8 +3739,8 @@ Activity types: Browsing, Visualizing, Editing
 
 Development: Mark Sullivan
 
-http://ufdc.ufl.edu/sobekcm
-https://github.com/MarkVSullivan/SobekCM-Web-Application
+http://ufdc.ufl.edu/sobekcm   
+https://github.com/MarkVSullivan/SobekCM-Web-Application   
 
 Categories: Content Retrieval Services, Collection Management, Search and Browsing
 
@@ -3756,8 +3756,8 @@ Activity types: Browsing, Retrieving
 
 Development: K-Samsök
 
-http://www.ksamsok.se/in-english/
-http://www.ksamsok.se/api/kodexempel/
+http://www.ksamsok.se/in-english/   
+http://www.ksamsok.se/api/kodexempel/   
 
 Categories: Metadata Retrieval Services, Linked Open Data
 
@@ -3772,8 +3772,8 @@ Activity types: Browsing
 
 Development: James Casbon
 
-http://lucene.apache.org/solr/
-http://www.apache.org/dyn/closer.cgi/lucene/solr/3.6.1
+http://lucene.apache.org/solr/   
+http://www.apache.org/dyn/closer.cgi/lucene/solr/3.6.1   
 
 Categories: Search and Browsing, Repository Software
 
@@ -3794,8 +3794,8 @@ Activity types: Managing
 
 Development: RubyGems
 
-https://rubygems.org/gems/spira
-https://github.com/ruby-rdf/spira
+https://rubygems.org/gems/spira   
+https://github.com/ruby-rdf/spira   
 
 Categories: Linked Open Data
 
@@ -3819,8 +3819,8 @@ Activity types: Editing, Web-Developing
 
 Development: Chris Beer 
 
-https://github.com/sul-dlss/spotlight
-https://github.com/sul-dlss/spotlight
+https://github.com/sul-dlss/spotlight   
+https://github.com/sul-dlss/spotlight   
 
 Categories: Contextualisation, Exhibition Management, Collection Management
 
@@ -3842,8 +3842,8 @@ Activity types: Browsing
 
 Development: Harvard Library Innovation Lab
 
-http://stacklife.harvard.edu/explainer.php
-https://github.com/harvard-lil/stacklife
+http://stacklife.harvard.edu/explainer.php   
+https://github.com/harvard-lil/stacklife   
 
 Categories: Collection Management
 
@@ -3861,8 +3861,8 @@ Activity types: Visualizing
 
 Development: Harvard Library Innovation Lab
 
-http://librarylab.law.harvard.edu/blog/stack-view/
-https://github.com/harvard-lil/stackview
+http://librarylab.law.harvard.edu/blog/stack-view/   
+https://github.com/harvard-lil/stackview   
 
 Categories: Collection Management, Data Visulaisation
 
@@ -3878,8 +3878,8 @@ Stanford NER is a Java implementation of a Named Entity Recognizer.
 Activity types: Named Entity Recognition
 
 
-http://nlp.stanford.edu/software/CRF-NER.shtml
-http://nlp.stanford.edu/software/CRF-NER.shtml#Download
+http://nlp.stanford.edu/software/CRF-NER.shtml   
+http://nlp.stanford.edu/software/CRF-NER.shtml#Download   
 
 Categories: Metadata Mapping/Conversion/normalisation, Metadata Retrival Services
 
@@ -3897,8 +3897,8 @@ Activity types: Analyzing
 
 Development: Standford 
 
-http://nlp.stanford.edu/software/corenlp.shtml
-http://nlp.stanford.edu/software/corenlp.shtml#Download
+http://nlp.stanford.edu/software/corenlp.shtml   
+http://nlp.stanford.edu/software/corenlp.shtml#Download   
 
 Categories: Ontology/Vocabulary Building and Management
 
@@ -3915,8 +3915,8 @@ Activity types: Editing
 
 Development: University of Innsbruck
 
-http://dbis-halvar.uibk.ac.at/dokuwiki/doku.php?id=main:structify
-http://dbis-halvar.uibk.ac.at/dokuwiki/doku.php?id=main:structify#download
+http://dbis-halvar.uibk.ac.at/dokuwiki/doku.php?id=main:structify   
+http://dbis-halvar.uibk.ac.at/dokuwiki/doku.php?id=main:structify#download   
 
 Categories: Publication, Data Annotation/Curation, Collection Management
 
@@ -3932,8 +3932,8 @@ Activity types: Locating, Visualizing
 
 Development: Northwestern University Knight Lab
 
-http://storymap.knightlab.com/
-http://storymap.knightlab.com/advanced.html
+http://storymap.knightlab.com/   
+http://storymap.knightlab.com/advanced.html   
 
 Categories: Geo-spatial Apllications, Media Applications, Data Visulaisation
 
@@ -3950,8 +3950,8 @@ Activity types: Managing
 
 Development: Joyner Library East Carolina University/ University of Miami Libraries
 
-http://www.subjectsplus.com/
-https://github.com/subjectsplus/SubjectsPlus
+http://www.subjectsplus.com/   
+https://github.com/subjectsplus/SubjectsPlus   
 
 Categories: Collection Management, Digital Asset Management
 
@@ -3968,8 +3968,8 @@ Activity types: Seeking, Organizing, Resource Sharing
 
 Development: DigitalNZ
 
-http://www.digitalnz.org/developers/supplejack
-https://github.com/DigitalNZ
+http://www.digitalnz.org/developers/supplejack   
+https://github.com/DigitalNZ   
 
 Categories: Metadata Retrieval Services, Metadata Mapping/Conversation/normalisation
 
@@ -3986,8 +3986,8 @@ Activity types: Extracting Data
 
 Development: Manuel Aristarán
 
-http://tabula.nerdpower.org/
-https://github.com/jazzido/tabula
+http://tabula.nerdpower.org/   
+https://github.com/jazzido/tabula   
 
 Categories: Semantic Extraction
 
@@ -4003,8 +4003,8 @@ Activity types: Programming
 
 Development: BBC Future Media Platforms
 
-http://fmtvp.github.io/tal/getting-started/introducing-tal.html
-https://github.com/fmtvp/tal
+http://fmtvp.github.io/tal/getting-started/introducing-tal.html   
+https://github.com/fmtvp/tal   
 
 Categories: Media Applications
 
@@ -4022,8 +4022,8 @@ Activity types: Programming
 
 Development: IMA Museums 
 
-http://tapintomuseums.org/TAP
-https://github.com/IMAmuseum
+http://tapintomuseums.org/TAP   
+https://github.com/IMAmuseum   
 
 Categories: Exhibition Management
 
@@ -4040,8 +4040,8 @@ Activity types: Archiving, Indexing, Archiving, Resource Sharing, Analyzing
 
 Development: Guillaume Pellerin, Thomas Fillon
 
-http://telemeta.org
-https://github.com/Parisson/Telemeta
+http://telemeta.org   
+https://github.com/Parisson/Telemeta   
 
 Categories: Collection Management, Digital Preservation, Media Annotation/Tagging, Metadata Mapping/Conversation/normalisation, Interactive User Interface
 
@@ -4060,8 +4060,8 @@ Activity types: Adding Metainformation
 
 Development: Diego Ferreyra
 
-http://www.vocabularyserver.com/
-http://sourceforge.net/projects/tematres/
+http://www.vocabularyserver.com/   
+http://sourceforge.net/projects/tematres/   
 
 Categories: Ontology/Vocabulary Building and Management, Collection Management
 
@@ -4079,8 +4079,8 @@ Activity types: Conversioning
 
 Development: Ray Smith
 
-https://github.com/tesseract-ocr/tesseract
-https://github.com/tesseract-ocr/tesseract
+https://github.com/tesseract-ocr/tesseract   
+https://github.com/tesseract-ocr/tesseract   
 
 Categories: Collection Management, Digital Asset Management, Ontology/Vocabulary Building and Management, Digital Preservation
 
@@ -4097,8 +4097,8 @@ Activity types: Browsing
 
 Development: Friedrich Lindenberg
 
-http://e-culture.multimedian.nl/software/ClioPatria.shtml
-http://cliopatria.swi-prolog.org/cpack_home
+http://e-culture.multimedian.nl/software/ClioPatria.shtml   
+http://cliopatria.swi-prolog.org/cpack_home   
 
 Categories: Search and Browsing
 
@@ -4116,8 +4116,8 @@ Activity types: Web-Developing
 
 Development: Leslie Sult, Justin Spargur, Gregory Hagedon, and Ginger Bidwell at the University of Arizona Libraries
 
-http://code.library.arizona.edu/gots/
-https://github.com/ualibraries/Guide-on-the-Side
+http://code.library.arizona.edu/gots/   
+https://github.com/ualibraries/Guide-on-the-Side   
 
 Categories: Social Applications, Collection Management, Linked Open Data
 
@@ -4136,8 +4136,8 @@ Activity types: Visualizing
 
 Development: Northwestern University Knight Lab
 
-http://timeline.knightlab.com/
-https://github.com/NUKnightLab/TimelineJS
+http://timeline.knightlab.com/   
+https://github.com/NUKnightLab/TimelineJS   
 
 Categories: Exhibition Management, Data Annotation/Curation, Media Applications
 
@@ -4159,8 +4159,8 @@ Activity types: Visualizing, Resource Sharing
 
 Development: Rufus Pollock
 
-http://timemapper.okfnlabs.org/
-https://github.com/okfn/timemapper
+http://timemapper.okfnlabs.org/   
+https://github.com/okfn/timemapper   
 
 Categories: Exhibition Management
 
@@ -4180,8 +4180,8 @@ Activity types: Browsing, Modifying, Indexing
 
 Development: Jonathan Rochkind (Johns Hopkins Libraries), Bill Dueber (University of Michigan Libraries)
 
-https://github.com/traject-project/traject/
-https://github.com/traject-project/traject/
+https://github.com/traject-project/traject/   
+https://github.com/traject-project/traject/   
 
 Categories: Collection Management, Metadata Mapping/Conversation/normalisation
 
@@ -4202,8 +4202,8 @@ Activity types: Web-Developing
 
 Development: University of North Texas
 
-https://github.com/unt-libraries/untdl_opensearch
-https://github.com/unt-libraries/untdl_opensearch
+https://github.com/unt-libraries/untdl_opensearch   
+https://github.com/unt-libraries/untdl_opensearch   
 
 Categories: Metadata Retrieval Services, Collection Management
 
@@ -4220,8 +4220,8 @@ Activity types: Visualizing, Publishing
 
 Development: Edward Silverton 
 
-https://github.com/UniversalViewer/universalviewer
-https://github.com/UniversalViewer/universalviewer
+https://github.com/UniversalViewer/universalviewer   
+https://github.com/UniversalViewer/universalviewer   
 
 Categories: Media Applications, Digital Asset Management, Publication
 
@@ -4242,8 +4242,8 @@ Activity types: Managing, Browsing, Visualizing
 
 Development: Ushahidi
 
-http://www.ushahidi.com/blog/product/ushahidi/
-http://www.ushahidi.com/get-help/
+http://www.ushahidi.com/blog/product/ushahidi/   
+http://www.ushahidi.com/get-help/   
 
 Categories: Data Visualization, Geo-spatial Apllications, Social Applications
 
@@ -4260,8 +4260,8 @@ Activity types: Networking
 
 Development: Cornell University
 
-http://vivoweb.org/about
-https://wiki.duraspace.org/display/VIVO/VIVO
+http://vivoweb.org/about   
+https://wiki.duraspace.org/display/VIVO/VIVO   
 
 Categories: Semantic Extraction
 
@@ -4277,8 +4277,8 @@ VoxForge was set up to collect transcribed speech for use with Free and  Open So
 Activity types: Archiving
 
 
-http://www.voxforge.org/home
-http://www.voxforge.org/home/dev
+http://www.voxforge.org/home   
+http://www.voxforge.org/home/dev   
 
 Categories: Ontology/Vocabulary Building and Management
 
@@ -4294,8 +4294,8 @@ Activity types: Archiving
 
 Development: Villanova University's Falvey Memorial Library.
 
-http://vufind.org/
-http://vufind.org/downloads.php
+http://vufind.org/   
+http://vufind.org/downloads.php   
 
 Categories: Collection Management
 
@@ -4315,8 +4315,8 @@ Activity types: Managing
 
 Development: Torchbox
 
-wagtail.io
-https://github.com/torchbox/wagtail/
+wagtail.io   
+https://github.com/torchbox/wagtail/   
 
 Categories: Collection Management
 
@@ -4332,8 +4332,8 @@ Activity types: Managing, Publishing, Extracting Data
 
 Development: Wandora Team
 
-http://www.wandora.org
-http://www.wandora.org/wiki/Download
+http://www.wandora.org   
+http://www.wandora.org/wiki/Download   
 
 Categories: Collection Management, Metadata Retrival Services, Metadata Mapping/Conversation/normalisation
 
@@ -4352,8 +4352,8 @@ Activity types: Archiving
 
 Development: the IIPC consortium
 
-http://netpreserve.org/netpreserve.org/tools/openwayback
-https://github.com/iipc/openwayback
+http://netpreserve.org/netpreserve.org/tools/openwayback   
+https://github.com/iipc/openwayback   
 
 Categories: Digital Preservation
 
@@ -4369,8 +4369,8 @@ Activity types: Machine Learning, Data Mining
 
 Development: The University of Waikato
 
-http://www.cs.waikato.ac.nz/ml/weka/
-http://www.cs.waikato.ac.nz/ml/weka/downloading.html
+http://www.cs.waikato.ac.nz/ml/weka/   
+http://www.cs.waikato.ac.nz/ml/weka/downloading.html   
 
 Categories: Metadata Retrieval Services
 
@@ -4386,8 +4386,8 @@ Activity types: Locating
 
 Development: Open Knowledge Foundation Labs (Rufus Pollock)
 
-http://okfnlabs.org/wikipediajs/
-https://github.com/okfn/wikipediajs/
+http://okfnlabs.org/wikipediajs/   
+https://github.com/okfn/wikipediajs/   
 
 Categories: Metadata Retrieval Services
 
@@ -4406,8 +4406,8 @@ Activity types: Seeking
 
 Development: OCLC
 
-https://www.worldcat.org/advancedsearch
-https://github.com/anarchivist/worldcat
+https://www.worldcat.org/advancedsearch   
+https://github.com/anarchivist/worldcat   
 
 Categories: Search and Browsing
 
@@ -4425,8 +4425,8 @@ Activity types: Producing, Managing, Publishing
 
 Development: http://www.regesta.com/
 
-http://www.xdams.org/
-https://github.com/xdamsorg/xDams-core/
+http://www.xdams.org/   
+https://github.com/xdamsorg/xDams-core/   
 
 Categories: Metadata Retrieval Services, Collection Management, Exhibition Management
 
@@ -4447,7 +4447,7 @@ Activity types: Managing, Producing, Publishing
 
 Development: Ethan Gruber, American Numismatic Society
 
-https://github.com/ewg118/xEAC
+https://github.com/ewg118/xEAC   
 
 Categories: Collection Management, Publication
 
@@ -4466,8 +4466,8 @@ Activity types: Direct Accessing
 
 Development: California Digital Library (CDL)
 
-http://xtf.cdlib.org/
-http://xtf.cdlib.org/download/
+http://xtf.cdlib.org/   
+http://xtf.cdlib.org/download/   
 
 Categories: Content Retrieval Services
 
@@ -4476,5 +4476,7 @@ Categories: Content Retrieval Services
 * Code Quality: Building XTF from the Source Code is quite simple. Apache Ant is used to do it. The Java code looks good.
 * Examples: http://xtf.cdlib.org/xtf/
 * License: Mozilla Public License 1.0 (MPL), BSD License, Apache Software License
+
+
 * Last release: 7/27/2012
 
