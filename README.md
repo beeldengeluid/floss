@@ -1,7 +1,9 @@
 
-#FLOSS inventory
+# FLOSS inventory
 
 The FLOSS inventory lists all the Free Libre Open Source Software relevant to Europeana and the cultural heritage world.
+
+---
 
 ### Ace
 
@@ -9,6 +11,7 @@ ACE (Auditing Control Environment) is a system that incorporates anew methodolog
 
 
 Activity types: Preserving
+
 Development: University of Maryland Institute for Advanced Computer Sciences
 
 https://wiki.umiacs.umd.edu/adapt/index.php/Ace:Main
@@ -31,6 +34,7 @@ ActiveFedora depends on Rails 3, specifically activemodel and
 activesupport.
 
 Activity types:  Preserving
+
 Development: Project Hydra
 
 https://github.com/projecthydra/active_fedora
@@ -50,6 +54,7 @@ Resources with property/attribute configuration, accessors, and other methods to
 This library was extracted from work on ActiveFedora. It is closely related to (and borrows some syntax from) Spira, but does some important things differently.
 
 Activity types: Modifying,  Categorizing Browsing
+
 Development: ActiveTriples
 
 https://github.com/ActiveTriples/ActiveTriples
@@ -66,6 +71,7 @@ Categories: Linked Open Data
 Amara gives individuals, communities, and larger organizations the power to overcome accessibility and language barriers for online video. Amara is composed of three main parts: A subtitle creation and viewing tool (aka the widget)A collaborative subtitling websiteAn open protocol for subtitle search/delivery
 
 Activity types: Producing, Transcribing, Collaborating, Retrieving, Subtitling
+
 Development: Participatory Culture Foundation
 
 http://www.amara.org/en/
@@ -88,6 +94,7 @@ instead of an image and information being assigned to the marker, a
 sound is
 
 Activity types: Producing, Recording, Presenting
+
 Development: Amplifon
 
 http://www.amplifon.co.uk/sounds-of-street-view/index.html
@@ -105,6 +112,7 @@ Categories: Exhibition Management, Geo-spatial applications, Media applications
 The Annotator is an open-source JavaScript library and tool that can be added to any webpage to make it annotatable.
 
 Activity types: Annotating 
+
 Development: Open Knowledge Foundation
 
 http://okfnlabs.org/annotator/
@@ -126,6 +134,7 @@ Categories: Data Annotation/Curation
 An online annotation platform for teaching and learning in the humanities
 
 Activity types: annotating 
+
 Development: MIT
 
 http://www.annotationstudio.org/
@@ -145,6 +154,7 @@ Categories: Media Annotation/Tagging
 Annotorious is a JavaScript annotation library for images and zoomable images. Link the Annotorious source files (CSS and JavaScript) into an existing HTML page, and images inside this page will be enhanced with an interactive drawing and commenting tool.
 
 Activity types:  Annotating, Commenting, Visualizing
+
 Development: Rainer Simon
 Peter Pilgerstorfer Paul Weichhart
 
@@ -169,6 +179,7 @@ http://crowdsourced.micropasts.org/app/phototaggingHorsfield       /http://ait-n
 The Apache PDFBox™ library is an open source Java tool for working with PDF documents. This project allows creation of new PDF documents, manipulation of existing documents and the ability to extract content from documents.
 
 Activity types: Producing, Organizing, Data recognition, Annotating
+
 Development: The Apache Software Foundation
 
 http://pdfbox.apache.org/
@@ -188,6 +199,7 @@ Categories: Digital Asset Management , Collection Management
 Apache Stanbol (currently in incubation) is an open source modular software stack and reusable set of components for semantic content management.
 
 Activity types: Organizing, Content Analysis, Data recognition
+
 Development: Apache Software Foundation
 
 http://incubator.apache.org/stanbol/
@@ -209,6 +221,7 @@ Categories: Semantic Enrichment, Collection Management, Digital Asset Management
 The Apache Tika toolkit detects and extracts metadata and structured text content from various documents using existing parser libraries.
 
 Activity types: Parsing, Data recognition 
+
 Development: Apache Software Foundation
 
 http://tika.apache.org/
@@ -230,6 +243,7 @@ Categories: Metadata Retrieval Services, Semantic Enrichment
 Archivematica is a free and open-source digital preservation system that is designed to maintain standards-based, long-term access to collections of digital objects.
 
 Activity types: Preserving
+
 Development: Artefactual Systems Inc
 
 https://www.archivematica.org/
@@ -252,6 +266,7 @@ Categories: Digital Preservation
 A next-generation archives management application that will incorporate the best features of Archivist’s Toolkit (AT) and Archon. The project team is developing a technical platform,  governance structure, and service model that will provide the archival community with a cutting-edge, extensible, and sustainable platform for describing analog and born-digital archival materials. The ArchivesSpace product is being developed using an Agile scrum process, guided by a Product Vision for ArchivesSpace.
 
 Activity types: Managing, Adding metainformation Preserving
+
 Development: Hudson Molonglo
 
 www.archivesspace.org
@@ -277,6 +292,7 @@ through a handy bookmarklet you can instantly install by dropping the
 above icon onto your bookmark bar.
 
 Activity types: Archiving, Extracting data
+
 Development: Guillaume Plique
 
 http://medialab.github.io/artoo/
@@ -293,6 +309,7 @@ Categories: Metadata Retrieval Services
 ASV Toolbox is a modular collection of tools for the exploration of written language data. They work either on word lists or text and solve several linguistic classification and clustering tasks. The topics covered contain language detection, POS-tagging, base form reduction, named entity recognition, and terminology extraction. On a more abstract level, the algorithms deal with various kinds of word similarity, using pattern based and statistical approaches. The collection can be used to work on large real world data sets as well as for studying the underlying algorithms. The ASV Toolbox can work on plain text files and connect to a MySQL database. While it is especially designed to work with corpora of the Leipzig Corpora Collection, it can easily be adapted to other sources.
 
 Activity types: Named entity recognition, POS Tagging, Extracting data
+
 Development: University of Leipzig 
 
 http://wortschatz.uni-leipzig.de/~cbiemann/software/toolbox/
@@ -309,6 +326,7 @@ Categories: Collection Management, Ontology/Vocabulary Building and Management
 The Avalon Media System is an open source system for managing large collections of digital audio and video files
 
 Activity types: Managing, Archiving
+
 Development: Indiana University and Northwestern University
 
 http://www.avalonmediasystem.org
@@ -328,6 +346,7 @@ Categories: Collection Management
 The BCT tool can be used to produce JPEG2000 or JPEG files of newspaper master images for presentation on the web. This tool calls two other tools, a binarization method from Basilis Gatos which is optimised for OCR, and Kakadu, a software development kit for creating JPEG2000 images. Therefore, in order to fully use the features of BCT, both tools must be installed and licensed. However, feel free to call your own tools from BCT. 
 
 Activity types: Imaging, Compressing
+
 Development: University of Innsbruck
 
 https://github.com/dea-uibk/BCT
@@ -356,6 +375,7 @@ system) data contained within disk images.
 
 
 Activity types: Direct accessing, Analyzing, Access Management, Adding metainformation
+
 Development: University of North Carolina at Chapel Hill
 
 http://access.bitcurator.net/index.php?title=Main_Page
@@ -373,6 +393,7 @@ Categories: Collection Management
 Two tools designed to help you evaluate MARC Bibliographic data in the BIBFRAME model: a comparison service and a transformation service
 
 Activity types: Comparing, Modifying
+
 Development: Library of Congress Network 
 Development and MARC Standards Office
 
@@ -394,6 +415,7 @@ RoR gem discovery interface for any Solr index
 
 Activity types: Browsing
 
+
 http://projectblacklight.org/
 https://github.com/projectblacklight/blacklight
 
@@ -413,6 +435,7 @@ Categories: Search and Browsing
 Bolt is a tool for Content Management, which strives to be as simple and straightforward as possible. With this general user manual you will be able to use Bolt to produce and edit content for your website.
 
 Activity types: Managing
+
 Development: Bob den Otter
 
 http://bolt.cm/
@@ -430,6 +453,7 @@ Categories: Collection Management
 online environment for collaborative text annotation"; focused on structured annotation of text, e.g., tagging named entities such as persons, organizations, etc., and their relationships
 
 Activity types: Annotation
+
 Development: University of Tokyo 
 
 http://brat.nlplab.org/index.html
@@ -449,6 +473,7 @@ Categories: Data Annotation/Curation
 This tool permits embedding, editing, and exporting of metadata in Broadcast WAVE Format (BWF) files. This tool can also enforce metadata guidelines developed by the Federal Agencies Audio-Visual Working Group, as well as recommendations and specifications from the European Broadcasting Union (EBU), Microsoft, and IBM.
 
 Activity types: Adding metainformation,  Extracting metadata
+
 Development: FADGI
 
 http://bwfmetaedit.sourceforge.net/
@@ -469,6 +494,7 @@ CARTO is an open, powerful, and intuitive platform for discovering and
 predicting the key insights underlying the location data in our world.
 
 Activity types: Imaging, Georeferencing
+
 Development: CARTO
 
 https://carto.com/
@@ -488,6 +514,7 @@ Categories: Geo-spatial Apllications
 Catmandu provides a suite of Perl modules to ease the import, storage, retrieval, export and transformation of metadata records. 
 
 Activity types: Preserving
+
 Development: Nicolas Steenlant, Patrick Hochstenbach
 
 http://librecat.org/index.html
@@ -509,6 +536,7 @@ Categories: Metadata Retrieval Services, Metadata Mapping/Conversation/normalisa
 Cesium is a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin. It uses WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for dynamic-data visualization.
 
 Activity types: Imaging
+
 Development: AGI
 
 http://cesiumjs.org/index.html
@@ -527,6 +555,7 @@ Categories: Geo-spatial Apllications
 An authoring and publishing environment for online catalogues with full scholarly apparatus
 
 Activity types: Authoring,  Publishing
+
 Development: The Art Institute of Chicago and the Indianapolis Museum of Art.
 
 http://www.oscitoolkit.org/
@@ -544,6 +573,7 @@ Categories: Exhibition Management, Collection Management
 CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data.
 
 Activity types: Managing, Publishing, Resource Sharing
+
 Development: Open Knowledge Foundation
 
 http://ckan.org/
@@ -566,6 +596,7 @@ Categories: Collection Management
 Clipper is a free open-source web application enabling researchers to create and share virtual-clips without altering the original media files. Clipper enables you to mark the start and end of interesting events while playing audio or video data files through a standard web browser. You can add rich text annotations to each clip, and combine clips into playlists (cliplists)
 
 Activity types: Annotating
+
 Development: The City of Glasgow College, The Open University and Reachwill Ltd
 
 http://blog.clippertube.com/index.php/clipper-prototype-3/
@@ -583,6 +614,7 @@ Categories: Media Annotation/Tagging
 CMUSphinx is a speaker-independent large vocabulary continuous speech recognizer released under BSD style license. It is also a collection of open source tools and resources that allows researchers and developers to build speech recognition systems.
 
 Activity types: Speech recognition
+
 Development: Carnegie Mellon University
 
 http://cmusphinx.sourceforge.net/
@@ -599,6 +631,7 @@ Categories: Enriching metadata, Speech Recognition
 CollectionSpace is an open-source collections management application that meets the needs of museums, historical societies, and other collection-holding organizations. CollectionSpace is designed to be configurable to each organization’s needs, serving as a gateway to digital and physical assets across an institution. The software is freely distributed via open-source licensing, and an active developer community ensures that CollectionSpace is continually improving. 
 
 Activity types: Managing
+
 Development: January 2014: Lyrasis is now the organizational home of CollectionSpace. (The project was initiated and led by Museum of the Moving Image.  Transition team includes developers based at University of California, Berkeley and Fluid Project at Ontario College of Art and Design; and Jesse Martinez, Freelance developer and Service Provider.)  Project Partners 2008-2013 included: University of California Berkeley, Fluid Project at Ontario College of Art and Design, and Centre for Applied Research in Educational Technologies (CARET) University of Cambridge. 
 
 www.collectionspace.org
@@ -621,6 +654,7 @@ Categories: Collection Management
 This is one of the more powerful open source CMS (collection managemetn systems). It allows you to manage metadata in variouos formats, using metadata profile descriptions. Available profiles include VRAcore, EBUcore, LIDO (contributed by LIBIS), etc
 
 Activity types: Managing, Presenting, Adding meta-information
+
 Development: Whirl-i-Gig
 
 http://www.collectiveaccess.org/
@@ -642,6 +676,7 @@ Categories: Collection Management, Content Retrival Services, Exhibition Managem
 Conjecture is a modular, extensible, open-source C++ framework for Optical Character Recognition (OCR). Conjecture is not a single OCR, but rather is an extensible collection of OCRs that can be explored, analyzed, compared, extended, modified, and merged within a unified environment. 
 
 Activity types: OCR
+
 Development: unknown
 
 http://conjecture.sourceforge.net/conjecture/index.php
@@ -659,6 +694,7 @@ Categories: Digital Asset Management
 The goal of ConservationSpace is to develop an open-source software application that will address a core need of the conservation community for a shared solution to the problem of documentation management. The conservation community has long recognized that a digital approach to managing its documentation would improve continuity in procedures, increase access, expand research opportunities, and better ensure the preservation of its documents.
 
 Activity types: Managing Preserving 
+
 Development: Sirma Group (Sirma ITT and Ontotext). The project is led by the National Gallery of Art (Washington, D.C., USA) with participation from Yale University Special Collections Library, Courtauld Institute, British Museum, Indianapolis Museum of Art, Metropolitan Museum of Art, Statens Museum for Kunst, and the Denver Art Museum). 
 
 www.conservationspace.org
@@ -688,6 +724,7 @@ semi-automatic XHTML/XML/JSON/text generation,a library of reusable components
 Mercurial for storage backends.
 
 Activity types: Web-developing 
+
 Development: LogiLab
 
 http://www.cubicweb.org/
@@ -706,6 +743,7 @@ Cross-Platform Authentication (CPA) offers an open standard for associating any 
 
 
 Activity types: Organizing
+
 Development: EBU
 
 http://ebu.io/project/cpa
@@ -724,6 +762,7 @@ Categories: Media Applications
     Collaboration tools.
 
 Activity types: Collaborating
+
 Development: Jeremy Ottevanger
 
 http://ccgi.ottevanger.plus.com/cgi-bin/ez/index.php
@@ -742,6 +781,7 @@ Categories: Content Retrieval Services, Metadata Retrival Services
 Continuous area cartograms with d3 and TopoJSON
 
 Activity types: Imaging
+
 Development: Shawn Allen
 
 http://prag.ma/code/d3-cartogram/
@@ -761,6 +801,7 @@ Categories: Geo-spatial Apllications, Data Visulaisation
 D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation. 
 
 Activity types: Managing, Visualizing
+
 Development: Dustin Ewers
 
 http://d3js.org/
@@ -779,6 +820,7 @@ Categories: Data Visualization
 dat is an open source tool that enables the sharing of large datasets, allowing for a decentralized collaboration flow
 
 Activity types: Resource sharing
+
 Development: Max Ogden
 
 http://dat-data.com/
@@ -799,6 +841,7 @@ Categories: Metadata Mapping/Conversion/normalisation, Collection Management
 Data Pipes is a service to provide streaming, "pipe-like" data transformations on the web – things like deleting rows or columns, find and replace, head, grep etc.
 
 Activity types: Modifying, Categorizing, Browsing
+
 Development: Open Knowledge Foundation
 
 http://datapipes.okfnlabs.org/
@@ -822,6 +865,7 @@ unstructured information sources to the Linked Open Data cloud through
 DBpedia.
 
 Activity types: Annotating, Linking
+
 Development: Pablo Mendes (Freie Universität Berlin), Jun 2010-present.
 Jo Daiber (Charles University in Prague), Mar 2011-present.
 Prof. Dr. Chris Bizer (Freie Universität Berlin),  supervisor, Jun 2010-present.
@@ -844,6 +888,7 @@ Categories: Linked Open Data, Data Annotation/Curation
 Semantic RDF data sources
 
 Activity types: Annotating, Managing
+
 Development: Juan Franciso Onielfa, Alejandro Peña
 
 http://www.fmomo.org
@@ -866,6 +911,7 @@ Categories: Collection Management, Content Retrival Services
 A python library for accurate and scaleable data deduplication and entity-resolution.
 
 Activity types: Curating
+
 Development: Gregg, Forest, and Derek Eder
 
 https://github.com/datamade/dedupe
@@ -888,6 +934,7 @@ Delving has developed and refined an open source platform with tools specificall
             
 
 Activity types: Preserving
+
 Development: Manuel Bernhardt, Gerald de Jong, Eric van der Meulen, Sjoerd Siebinga, Thomas Wikman, Juliane Stiller
 
 http://delving.eu
@@ -910,6 +957,7 @@ Categories: Metadata Mapping/Conversion/normalisation, Metadata Checker/Validati
 The DPSP is a collection of software applications which support the goal of digital preservation.
 
 Activity types: Preserving
+
 Development: National Archives of Australia
 
 http://dpsp.sourceforge.net/
@@ -930,6 +978,7 @@ Categories: Digital Preservation
 Django app to generate an interactive gallery label interface, optimised for touch screens and tablets.
 
 Activity types: Annotating
+
 Development: V&A Digital Media team
 
 http://vanda.github.io/DigitalLabels/
@@ -949,6 +998,7 @@ Categories: Exhibition Management
 Digitate is a free application designed for use on the iOS platform, specifically on iPad devices. The application allows scholars and enthusiasts with an interest in the visual and material elements of a cultural artefact to make notes and annotations directly on an image of such an artefact.For example, a literary scholar might use it to annotate the material or bibliographic elements of a rare text or first edition, while an art historian might do the same on an image of a painting. 
 
 Activity types: Annotating
+
 Development: OpenDHAT
 
 https://github.com/jamesosullivan/digitate
@@ -966,6 +1016,7 @@ Categories: Media Annotation/Tagging
 Digilib is a web based client/server technology for images. The image content is processed on-the-fly by a Java Servlet on the server side so that only the visible portion of the image is sent to the web browser on the client side. It supports a wide range of image formats and viewing options on the server side while only requiring an internet browser with javascript and a low bandwidth internet connection on the client side. digilib enables very detailed work on an image as required by scientists with elaborate zoom features like an option to show images on the screen in their original size. digilib facilitates cooperation of scientists over the internet and novel uses of source material by image annotations and stable references that can be embedded in URLs. digilib is used in the ALCATRAZ framework of image, text and annotation tools and many other projects. - See more at: http://dirtdirectory.org/resources/digilib#sthash.60AWtXSq.CDwoNbFA.dpuf
 
 Activity types: Editing,  Visualizing, Annotating
+
 Development: Max-Planck-Insitute for the History of Sciencethe University of Bern
 
 http://digilib.sourceforge.net/
@@ -992,6 +1043,7 @@ efficient memory usage and high loading speeds. Written as a jQuery plugin, diva
         
 
 Activity types: Modifying, Browsing
+
 Development: Distributed Digital Music Archives and Libraries
 
 http://ddmal.github.io/diva.js/about/
@@ -1010,6 +1062,7 @@ Categories: Publication, Exhibition Management
 HTML5 document viewer
 
 Activity types: Browsing
+
 Development: The New York Times
 
 https://github.com/documentcloud/document-viewer
@@ -1031,6 +1084,7 @@ Categories: Media Applications
 Docsplit is a command-line utility and Ruby library for splitting apart documents into their component parts: searchable UTF-8 plain text, page images or thumbnails in any format, PDFs, single pages, and document metadata (title, author, number of pages...)
 
 Activity types: Modifying
+
 Development: Jeremy Ashkenas, DocumentCloud
 
 http://documentcloud.github.io/docsplit/
@@ -1052,6 +1106,7 @@ Categories: Collection Management
 DSpace open source software is a turnkey repository application 
 
 Activity types: Preserving
+
 Development: DSpace Foundation
 
 http://www.dspace.org/
@@ -1074,6 +1129,7 @@ Categories: Collection Management, Metadata Retrival Services, Repository Softwa
 EADitor is an EAD (Encoded Archival Description) editor based on Orbeon XForms. It uses various external services (eg Getty AAT, TGN, ULAN) for accessing LOD to be used in the descriptions. A companion tool is xEAC for creating and managing EAC-CPF records (corporates, persons, families)
 
 Activity types: Managing
+
 Development: Ethan Gruber, American Numismatic Society
 
 http://eaditor.blogspot.com/
@@ -1096,6 +1152,7 @@ Categories: Collection Management, Metadata Retrival Services
 Simple framework for exposing Linked Open Data from arbitrary sources.
 
 Activity types: Presenting
+
 Development: Mark Jordan
 
 https://github.com/mjordan/easyLOD
@@ -1116,6 +1173,7 @@ A PHP library to quickly parse RDF. It supports URL redirect and simple "queries
 
 Activity types: Parsing, Data recognition 
 
+
 http://www.easyrdf.org/
 http://www.easyrdf.org/downloads
 https://github.com/njh/easyrdf
@@ -1133,6 +1191,7 @@ Categories: Linked Open Data, Metadata Retrival Services
     Internet design and authoring tools.
 
 Activity types: Web-developing, Authoring
+
 Development: The Echonest in partnership with MusicBrainz
 
 http://echoprint.me/
@@ -1153,6 +1212,7 @@ Categories: Content Retrieval Services, Metadata Retrival Services
 ElasticSearch is a distributed RESTful search engine built for the cloud.
 
 Activity types: Seeking
+
 Development: http://elasticsearch.com/about/team/
 
 http://www.elasticsearch.org/
@@ -1175,6 +1235,7 @@ One downside of the documentation is that it’s sometimes hard to find concrete
 Electronic Resource Management (ERM) Software
 
 Activity types: Managing
+
 Development: William Doering, Galadriel Chilton 
 
 http://murphylibrary.uwlax.edu/erm/
@@ -1195,6 +1256,7 @@ Categories: Metadata Retrieval Services
 Java client for the Europeana Search API. Refactored and Mavenized version of Europeana4j
 
 Activity types: Seeking
+
 Development: Sergiu Gordia
 
 https://github.com/europeana/europeana-client/
@@ -1211,6 +1273,7 @@ Categories: Metadata Retrieval Services, Linked Open Data
 This tool takes container documents (MPEG21-DIDL, METS), parses all references to ALTO files and tries to find named entities in the pages (with most models: Location, Person, Organisation, Misc). The aim is to keep the physical location on the page available through the whole process to be able to highlight the results in a viewer.
 
 Activity types: Parsing
+
 Development: KB Research
 
 http://europeana-newspapers.eu/
@@ -1229,6 +1292,7 @@ Categories: Metadata Retrieval Services, Semantic Extraction
 A simple Python library and webservice, that allows named entity disambiguation against a label database. The idea is to use a Solr query to filter possible candidates and use the more detailed analysis on string similarity, number of inlinks and entity type to select the "best" candidate. It contains code to handle (multi-lingual) DBpedia dumps and load them into a Solr backend. It also contains helper code for the annotation of ALTO 2.1 files that are used in the context of the Europeana Newspapers project.
 
 Activity types: Named Entity Recognition
+
 Development: KBNL Research
 
 https://github.com/KBNLresearch/europeananp-dbpedia-disambiguation
@@ -1245,6 +1309,7 @@ Categories: Metadata Retrieval Services, Media Annotation/Tagging
 A script for harvesting metadata from Wikimedia Commons for the use in Europeana
 
 Activity types: Gathering, Harvesting
+
 Development: Wikimedia Sverige
 
 https://github.com/lokal-profil/EuropeanaHarvest
@@ -1261,6 +1326,7 @@ Categories: Metadata Retrieval Services
  eXtensible Catalog is open source, user-centered, next generation discovery interface software for libraries and consortia. It comprises four software components that can be used independently to address a particular need or combined to provide an end-to-end discovery system to connect library users with resources.
 
 Activity types: Seeking
+
 Development: eXtensible Catalog Organization · University of Rochester
 
  http://www.extensiblecatalog.org/
@@ -1280,6 +1346,7 @@ Categories: Collection Management, Search and Browsing, Linked Open Data
 Image similarity search source code
 
 Activity types: Seeking
+
 Development: Sergiu Gordia
 
 https://github.com/europeana/Europeana-Creative/tree/master/image-similarity-client
@@ -1297,6 +1364,7 @@ Categories: Image Similarity
 A tool for downloading a full record descriptions in the ESE format from any OAI-PMH-compliant interface.
 
 Activity types: Seeking,Managing, Resource sharing
+
 Development: PCSS Digital Libraries Team
 
 http://dl.psnc.pl/software/EXB/site/
@@ -1314,6 +1382,7 @@ Categories: Metadata Retrieval Services
 Evergreen is a highly-scalable software for libraries that helps library patrons find library materials, and helps libraries manage, catalog, and circulate those materials, no matter how large or complex the libraries.
 
 Activity types: Seeking, Managing, Resource sharing
+
 Development: Various
 
 http://www.open-ils.org/
@@ -1335,6 +1404,7 @@ Categories: Collection Management, Search and Browsing
 ExifTool is a platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files.
 
 Activity types: Adding Metainformation
+
 Development: Phil Harvey
 
 http://www.sno.phy.queensu.ca/~phil/exiftool/
@@ -1352,6 +1422,7 @@ Categories: Metadata Retrival Services, Metadata Mapping/Conversation/normalisat
 Fedora (Flexible Extensible Digital Object Repository Architecture) was originally developed by researchers at Cornell University as an architecture for storing, managing, and accessing digital content in the form of digital objects inspired by the Kahn and Wilensky Framework.  Fedora defines a set of abstractions for expressing digital objects, asserting relationships among digital objects, and linking "behaviors" (i.e., services) to digital objects. 
 
 Activity types: Managing, Storing, Direct Accessing 
+
 Development: various researchers at Cornell University
 
 http://fedora-commons.org/
@@ -1372,6 +1443,7 @@ Categories: Digital Asset Management, Content Retrival Services, Collection Mana
 Migrates content from a Fedora3 repository to a Fedora4 one.
 
 Activity types: Migrating
+
 Development: Penn State
 
 https://github.com/projecthydra-labs/fedora-migrate
@@ -1388,6 +1460,7 @@ Categories: Collection Management
 This application functions like a digitization Swiss army knife.  The application allows a user to analyze the contents of a file system or external drive and generates statistics about the contents of the contained directories.  The application can be used to generate checksum values to ensure the bit-level integrity of files after they have been copied to a new device.  After a collection of files have been converted from one digital format to another, this application can verify that there is a one-to-one match of before and after files.
 
 Activity types: Digitizing
+
 Development: NARA
 
 http://blogs.archives.gov/online-public-access/?p=6270
@@ -1408,6 +1481,7 @@ Categories: Digital Preservation, Metadata Mapping/Conversation/normalisation, M
 Parse, modify, and create MARC records
 
 Activity types: Parsing, Modifying
+
 Development: Dan Scott
 
 http://pear.php.net/package/File_MARC/
@@ -1433,6 +1507,7 @@ images according to the Europeana Newspapers project specifications.
  can be quickly ordered on the basis of issues and publishing date.
 
 Activity types: Modifying, Managing
+
 Development: University of Innsbruck
 
 http://dbis-halvar.uibk.ac.at/dokuwiki/doku.php?id=main:structify
@@ -1450,6 +1525,7 @@ Categories: Content Retrieval Services, Digital Asset Management
 Fixity is a utility for the documentation and regular review of stored files.
 
 Activity types: Managing
+
 Development: AudioVisual Preservation Solutions
 
 http://www.avpreserve.com/avpsresources/tools/
@@ -1467,6 +1543,7 @@ Categories: Metadata Mapping/Conversion/normalisation, Media Checker/Validation
 The Initiative for Digital Humanities Media and Culture (IDHMC) at Texas A&M University as part of its Early Modern OCR Project (eMOP) has created a new tool called Franken+ that provides a way to create font training for the Tesseract OCR engine using page images. This is in contrast to Tesseract's document method of font training which involves using a word processing program with a modern font. ''''Franken+ works in conjunction with PRImA's Aletheia tool and allows users to easily and quickly identify one or more idealized forms of each glyph found on a set of page images. These identified forms are then used to generate a set of Franken-page images matching the page characteristics documented in Tesseract's training instructions but using a font used in an actual early modern printed document.
 
 Activity types: Imaging, Analysing
+
 Development: Texas A&M/Bryan Tarpley
 
 http://dh-emopweb.tamu.edu/Franken+/
@@ -1486,6 +1563,7 @@ Categories: Collection Management
 Frog formerly known as Tadpole is an integration of memory-based natural language processing (NLP) modules developed for Dutch. All NLP modules are based on Timbl the Tilburg memory-based learning software package. Most modules were created in the 1990s at the ILK Research Group (Tilburg University the Netherlands) and the CLiPS Research Centre (University of Antwerp Belgium). Over the years they have been integrated into a single text processing tool. More recently a dependency parser a base phrase chunker and a named-entity recognizer module were added. 
 
 Activity types: Processing, Parsing, Name entity recognition
+
 Development: University of Tilburg
 
 http://ilk.uvt.nl/frog/
@@ -1506,6 +1584,7 @@ Categories: Semantic Extraction
 FromThePage is an open-source tool that allows volunteers to collaborate to transcribe handwritten documents.
 
 Activity types: Collaborating, Transcribing
+
 Development: Ben W. Brumfield
 
 http://beta.fromthepage.com/
@@ -1525,6 +1604,7 @@ Categories: Social Applications, Contextualisation
 GATE is over 15 years old and is in active use for all types of computational task involving human language. GATE solves problems concerning text analysis or human language processing.
 
 Activity types: Processing, Parsing, Name entity recognition
+
 Development: Various
 
 http://gate.ac.uk/
@@ -1545,6 +1625,7 @@ Categories: Alignment Tools, Metadata Mapping/Conversation/normalisation, Media 
 geomapping service
 
 Activity types: Georeferencing
+
 Development: Sergiu Gordea
 
 https://github.com/europeana/Europeana-Creative/tree/master/geomapping-web
@@ -1563,6 +1644,7 @@ Categories: Geo-spatial Apllications
 The AAT, TGN, ULAN, and CONA contain structured terminology for art and other material culture, archival materials, visual surrogates, and bibliographic materials. Compliant with international standards, they provide authoritative information for catalogers and researchers, and can be used to enhance access to databases and Web sites. - See more at: http://www.getty.edu/research/tools/vocabularies/lod/sparql.html#sthash.sCQK6qfa.dpuf
 
 Activity types: Organizing
+
 Development: Getty
 
 http://vocab.getty.edu/
@@ -1582,6 +1664,7 @@ Categories: Ontology/Vocabulary Building and Management, Linked Open Data
 GIMP is the GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching image composition and image authoring.
 
 Activity types: Visualizing, Imaging
+
 Development: GIMP Team
 
 http://www.gimp.org/
@@ -1602,6 +1685,7 @@ Categories: Media Annotation/Tagging
 Grid is the Guardian’s new image management system, which provides a universal and fast experience accessing media that is organised and using it in an affordable way to produce high-quality content. Grid runs as a set of independent micro-services (Scala and Play Framework) exposed as hypermedia APIs (argo) and accessed using a rich Web user interface (AngularJS). Grid relies on Elasticsearch for blazing-fast searching, and AWS services as additional storage and communication mechanisms.
 
 Activity types: Publishing, managing
+
 Development: The Guardian 
 
 https://github.com/guardian/grid
@@ -1621,6 +1705,7 @@ Categories: Digital Asset Management, Media Applications, Publication
 Griot is an open-source iPad application that facilitates engagement with a collection of objects (artifacts, artwork, graphs, or anything else that can be represented visually) through annotations (points of interest on the object itself) and stories (related text-based and multimedia content, presented as a series of pages).
 
 Activity types: Annotating, Accessing
+
 Development: Minneapolis Institute of Art
 
 https://github.com/artsmia/griot
@@ -1640,6 +1725,7 @@ Categories: Digital Asset Management, Collection Management, Media Applications
 ggplot2 is a plotting system for R, based on the grammar of graphics, which tries to take the good parts of base and lattice graphics and none of the bad parts. It takes care of many of the fiddly details that make plotting a hassle (like drawing legends) as well as providing a powerful model of graphics that makes it easy to produce complex multi-layered graphics.
 
 Activity types: Visualizing
+
 Development: Hadley Wickham
 
 http://ggplot2.org/
@@ -1658,6 +1744,7 @@ Categories: Data Visualization
 It will be a tool to manage the taxonomic literature that is (a) already available in digital form, (b) in the process of being digitised, and (c) for which plans have been created for digitisation and to nominate literature to be digitised.
 
 Activity types: Bibliographic Management
+
 Development:  Boris Jacob
 
 http://bhleurope.gbv.de/
@@ -1676,6 +1763,7 @@ Categories: Metadata Retrieval Services
 Goobi is an open source software application for digitisation projects and workflow management in libraries, museums and archives.
 
 Activity types: Digitization, Managing
+
 Development: Goobi
 
 http://www.goobi.org/en/
@@ -1695,6 +1783,7 @@ Categories: Collection Management, Media Checker/Validation, Digital Preservatio
 Graphite is a PHP Library, built on top of ARC2, to make it easy to do stuff with RDF data really quickly, without having to naff around with databases.
 
 Activity types: Adding Metainformation, Programming
+
 Development: Christopher Gutteridge
 
 graphite.ecs.soton.ac.uk
@@ -1715,6 +1804,7 @@ OCR free software and Ground Truthing tool: the gttext project extracts text fro
 
 Activity types: Imaging, OCR
 
+
 http://www.softocr.com/
 http://www.softocr.com/downloads
 
@@ -1731,6 +1821,7 @@ Categories: Metadata Retrieval Services
 Extract URLs from text, source code or search engine results. Produces a clean list of URLs.
 
 Activity types: Gathering
+
 Development: Digital Methods Initiative
 
 https://wiki.digitalmethods.net/Dmi/ToolHarvester
@@ -1752,6 +1843,7 @@ that builds on Krikri, a
 Krikri are both released as open source software under the MIT License.
 
 Activity types: Gathering, Adding Metainformation
+
 Development: DPLA
 
 https://digitalpubliclibraryofamerica.atlassian.net/wiki/display/TECH/Heidrun
@@ -1771,6 +1863,7 @@ Categories: Ingestion Tool
 Hydra is a repository solution that is being used by institutions worldwide to provide access to their digital content.  Hydra provides a versatile and feature rich environment for end-users and repository administrators alike.
 
 Activity types: Curating, Managing, Preservation 
+
 
 http://projecthydra.org/
 https://github.com/projecthydra
@@ -1798,6 +1891,7 @@ humanities and eScience projects, providing a common research and
 publication environment for groups as well as individuals.
 
 Activity types: Annotating, Analyzing,
+
 Development: 
 
 Heinz-Günter Kuper, Dr.,JML 	
@@ -1821,6 +1915,7 @@ Categories: Media Annotation/Tagging
 Hypothes.is brings community peer review to The Internet. It is a web application which enables rich annotation of web content. The project acts as a community aggregator for annotations and identity provider [*] for annotators. It also serves embed code for an annotation agent designed with modern web browsers in mind.
 
 Activity types: Crowdsourcing, Annotating
+
 Development: Hypothesis
 
 https://hypothes.is/
@@ -1840,6 +1935,7 @@ ICA-AtoM is a web-based archival description software that is based on the Inter
 ICA-AtoM is multi-lingual and supports multi-repository collections.
 
 Activity types: Adding metainformation, Curating
+
 Development:  Artefactual Systems in collaboration with the ICA Program Commission (PCOM
 
 https://www.ica-atom.org/
@@ -1862,6 +1958,7 @@ Categories: Collection Management, Repository Software
 IIPImage is an advanced high-performance feature-rich image server system for web-based streamed viewing and zooming of ultra high-resolution images.
 
 Activity types: Visualizing, Publishing
+
 Development: Ruven Pillay
 
 http://iipimage.sf.net
@@ -1883,6 +1980,7 @@ Categories: Exhibition Management, Media Applications
 IIPMooViewer is a high performance light-weight HTML5 Ajax-based javascript image streaming and zooming client designed for the IIPImage high resolution imaging system
 
 Activity types: Visualizing
+
 Development: Ruven Pillay
 
 http://iipimage.sourceforge.net
@@ -1901,6 +1999,7 @@ Categories: Media Applications
 It can display, edit, analyze, process, save and print 8-bit, 16-bit and 32-bit images. It can read many image formats including TIFF, GIF, JPEG, BMP, DICOM, FITS and "raw". It supports "stacks", a series of images that share a single window. It is multithreaded, so time-consuming operations such as image file reading can be performed in parallel with other operations. 
 
 Activity types: Visualizing
+
 Development: Wayne Rasband
 
 http://rsbweb.nih.gov/ij/docs/intro.html
@@ -1928,6 +2027,7 @@ montage does not include all source images, change the options to reduce
 
 
 Activity types: Visualizing
+
 Development: Lev Manovich, Matias Giachino, Jay Chow. 
 
 http://lab.softwarestudies.com/2014/03/how-to-visualize-4512-instagram-selfies.html?utm_content=buffer9ee7e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
@@ -1944,6 +2044,7 @@ Categories: Media Applications, Exhibition Management
 ImagePlot is a free software tool that visualizes collections of images and video of any size. It is implemented as a macro which works with the open source image processing program ImageJ. 
 
 Activity types: Visualizing
+
 Development: Software Studies Initiative 
 
 http://lab.softwarestudies.com/p/imageplot.html#features1
@@ -1962,6 +2063,7 @@ Categories: Media Applications
 Beta Image Twinning plug-in for WP developed as part of Europeana Creative
 
 Activity types: Visualizing
+
 Development: AIT
 
 https://wordpress.org/plugins/image-twinning/
@@ -1978,6 +2080,7 @@ Categories: Image Similarity
 The Internet Archive BookReader is used to view books from the Internet Archive online and can also be used to view other books
 
 Activity types: Resource Sharing, Visualizing
+
 
 https://openlibrary.org/dev/docs/bookreader
 https://github.com/openlibrary/bookreader
@@ -1997,6 +2100,7 @@ Categories: Content Retrieval Services
 interstitial is a tool designed to detect dropped samples in audio digitization processes.
 
 Activity types: Preserving
+
 Development: AudioVisual Preservation Solutions
 
 http://www.avpreserve.com/avpsresources/tools/
@@ -2013,6 +2117,7 @@ Categories: Digital Preservation, Media Checker/Validation
 Islandora is an open source framework that combines the Drupal and Fedora open software applications to create a robust digital asset management system that can be fitted to meet the short and long term collaborative requirements of digital data stewardship. Additional open source applications are added to this core stack to create what we call Solution Packs.
 
 Activity types: Managing, Collaborating, Storing
+
 Development: The Islandora Foundation
 
 http://islandora.ca/
@@ -2035,6 +2140,7 @@ Categories: Digital Asset Management
 JHOVE provides functions to perform format-specific identification, validation, and characterization of digital objects.
 
 Activity types: Processing, Preserving
+
 Development: JSTOR & the Harvard University Library
 
 http://openpreservation.org/technology/products/jhove/
@@ -2056,6 +2162,7 @@ Categories: Digital Preservation, Media Annotation/Tagging
 Activity types: Processing, Preserving
 
 
+
 Categories: 
 
 
@@ -2065,6 +2172,7 @@ Categories:
 
 
 Activity types: Modifying
+
 
 
 Categories: 
@@ -2078,6 +2186,7 @@ Categories:
 Activity types: Seeking
 
 
+
 Categories: 
 
 
@@ -2087,6 +2196,7 @@ Categories:
 
 
 Activity types: Data recognition, Transcribing
+
 
 
 Categories: 
@@ -2099,6 +2209,7 @@ Categories:
 A standard Drupal Module that integrates the Kaltura video platform capabilities into Drupal, allowing you to instantly enrich your Drupal site with video, audio, and images. Kaltura’s video platform and video module for Drupal is an enterprise grade solution that offers comprehensive powerful functionality and full control over content ownership, without the need to run your own video operation. The module handles every aspect of rich-media, including uploading and importing content, transcoding, content management, syndication, monetization, distribution, and more.
 
 Activity types: Web-developing, Publishing
+
 Development: Kaltura
 
 http://corp.kaltura.com/
@@ -2115,6 +2226,7 @@ Categories: Media Annotation/Tagging, Media Applications
 Kamailio is an industrial-strength, free server for realtime communication, based on the Session Initiation Protocol
 
 Activity types: Communicating
+
 Development: Kamailio
 
 http://www.kamailio.org/w/
@@ -2132,6 +2244,7 @@ Categories: SIP
 Kartograph is a simple and lightweight framework for building interactive map applications without Google Maps or any other mapping service.
 
 Activity types: Visualizing, Mapping, Capturing
+
 Development: Gregor Aisch
 
 http://kartograph.org/
@@ -2150,6 +2263,7 @@ Categories: Geo-spatial Apllications, Data Visulaisation
 Activity types: Annotating
 
 
+
 Categories: 
 
 
@@ -2160,6 +2274,7 @@ Categories:
 Koha is the first free and open source software library automation package (ILS). Development is sponsored by libraries of varying types and sizes, volunteers, and support companies from around the world.
 
 Activity types: Adding Metainformation
+
 Development: Various
 
 http://koha-community.org/
@@ -2178,6 +2293,7 @@ Categories: Metadata Retrieval Services, Search and Browsing
 Korbo is a Semantic Web basket manager. It allows users to search, import and augment Linked Data resources. Personal augmented collections created with Korbo, are then republished in the Linked Data cloud. Korbo is part of the Muruca suite.
 
 Activity types: Enriching
+
 Development: Net7
 
 http://korbo.muruca.org/
@@ -2193,6 +2309,7 @@ Categories: Semantic Enrichment
 A Rails engine for metadata aggregation, enhancement, and quality control.
 
 Activity types: Adding metainformation
+
 Development: DPLA
 
 https://github.com/dpla/KriKri
@@ -2214,6 +2331,7 @@ features a governance model in which the entire library community can
 collaborate to own the resulting intellectual property.
 
 Activity types: Managing, accessing
+
 Development: Kuali OLE https://www.kuali.org/ole/organization
 
 www.kuali.org/ole
@@ -2232,6 +2350,7 @@ Categories: Collection Management
 Leaflet is an open source JavaScript library for mobile-friendly interactive maps
 
 Activity types: Visualizing, Mapping
+
 Development: Vladimir Agafonkin
 
 http://leafletjs.com/
@@ -2249,6 +2368,7 @@ Categories: Data Visualization, Geo-spatial Apllications
 Leaflet plugin for viewing IIIF images
 
 Activity types: Visualizing, Publishing
+
 Development: Jack Reed/Standford University
 
 https://github.com/mejackreed/Leaflet-IIIF
@@ -2265,6 +2385,7 @@ Categories: Publication, Geo-spatial Apllications
 In the LinkedTV project (http://linkedtv.eu), the Editor Tool (ET) enables moderating (named) entities and hyperlinks, which are automatically extracted from audiovisual content. This data is created to provide a useful starting point for editorial teams that are responsible for publishing interactive television programmes, which aim to offer contextual information to viewers.
 
 Activity types: Contextualizing, Extracting metadata
+
 Development: Jaap Blom, NISV
 
 https://github.com/beeldengeluid/linkedtv-editortool
@@ -2294,6 +2415,7 @@ language, the only requirement being that a DBpedia spotlight instance for
 this particular language is running.
 
 Activity types: enriching
+
 Development: LoCloud
 
 http://www.locloud.eu/
@@ -2311,6 +2433,7 @@ Categories: Contextualisation, Linked Open Data
 LodLive project provides a demonstration of the use of Linked Data standards (RDF, SPARQL) to browse RDF resources
 
 Activity types: Browisng
+
 Development: Diego Valerio Camarda e Silvia Mazzini (http://www.regesta.com/) , Alessandro Antonuccio (http://www.hstudio.it/) 
 
 http://en.lodlive.it/
@@ -2329,6 +2452,7 @@ Categories: Metadata Retrieval Services
 LODmilla - a graph-based Linked Open Data browser. Intended as a prototype tool for generic LOD browsing. This frontend of LODmilla is written in "plain" jQuery, no js frameworks used (yet). Graph visualization is done by jsPlumb.
 
 Activity types: Browisng
+
 Development: dsd-sztaki-hu
 
 https://github.com/dsd-sztaki-hu/LODmilla-frontend
@@ -2346,6 +2470,7 @@ Categories: Search and Browsing, Linked Open Data
 
 
 Activity types: Archiving, 
+
 Development: Jon Stroop
 
 https://github.com/pulibrary/loris
@@ -2363,6 +2488,7 @@ Categories: Media Applications
 MARC is a ruby library for reading and writing MAchine Readable Cataloging (MARC)
 
 Activity types: Adding metainformation
+
 Development: Kevin Clarke, Bill Dueber, William Groppe,  Ross Singer,  Ed Summers
 
 http://marc.rubyforge.org/
@@ -2384,6 +2510,7 @@ Categories: Collection Management, Metadata Retrival Services
 An open-source map vectorizer
 
 Activity types: Visualizing
+
 Development: Mauricio Giraldo Arteaga / New York Public Library Labs
 
 http://www.nypl.org/collections/labs
@@ -2400,6 +2527,7 @@ Categories: Metadata Retrieval Services, Geo-spatial Apllications
 The MARCXML toolkit is a set of Java programs which allow users to convert to and from the MARC file format (including full character set conversion) and other formats available in the MARCXML architecture.
 
 Activity types: Conversioning
+
 
 http://www.loc.gov/standards/marcxml/
 http://www.loc.gov/standards/marcxml/
@@ -2418,6 +2546,7 @@ Categories: Metadata Mapping/Conversion/normalisation
 A cross-platform tool designed to expedite metadata quality control across large numbers of digital assets.
 
 Activity types: Adding metainformation, Validating
+
 Development: AudioVisual Preservation Solutions
 
 http://www.avpreserve.com/avpsresources/tools/
@@ -2434,6 +2563,7 @@ Categories: Metadata Retrieval Services, Collection Management, Metadata Mapping
 A convenient unified display of the most relevant technical and tag data for video and audio files.
 
 Activity types: Presenting
+
 Development: MediaArea
 
 http://mediainfo.sourceforge.net/en
@@ -2454,6 +2584,7 @@ Categories: Ontology/Vocabulary Building and Management, Media Applications
 MediaMosa is open source software to build a Full Featured, Webservice Oriented Media Management and Distribution platform.
 
 Activity types: Managing, Presenting
+
 Development: MediaMosa
 
 www.mediamosa.org
@@ -2476,6 +2607,7 @@ collaboration on video and image analysis. Developed at the Columbia
 Center for New Media Teaching and Learning (CCNMTL)
 
 Activity types: Annotating, Collaborating, Analyzing
+
 Development: Columbia Center for New Media Teaching and Learning
 
 http://mediathread.info/content/about-mediathread
@@ -2501,6 +2633,7 @@ filesystem. For large wikis with lots of users, MediaWiki supports
 caching and can be easily coupled with Squid proxy server software.
 
 Activity types: Processing, Presenting
+
 Development: Wikimedia
 
 https://www.mediawiki.org/wiki/MediaWiki
@@ -2518,6 +2651,7 @@ Categories: Collection Management, Linked Open Data
 The Metadata Form Creation System (MFCS) is WVU Libraries answer for  providing an easy to use interface for librarians, staff, and students  for entering metadata and uploading digital items for our digital  collections. MFCS is also our archival and preservation system. MFCS is a delivery and repository agnostic system. 
 
 Activity types: Processing, Archiving, Preserving
+
 Development: Michael Bond WVU Libraries
 
 https://github.com/wvulibraries/mfcs
@@ -2536,6 +2670,7 @@ Categories: Collection Management, Digital Asset Management, Digital Preservatio
 MINT services compose a web based platform that was designed and developed to facilitate aggregation initiatives for cultural heritage content and metadata in Europe.
 
 Activity types: Collecting, Adding metainformation, Aggregating
+
 Development: Katerina Komninou, Nasos Drosopoulos, Vasilis Tzouvaras, Anna Christaki, Arne Stabenau, Costas Pardalis, Fotis Xenikoudakis, Nikos Simou
 
 http://mint.image.ece.ntua.gr/
@@ -2557,6 +2692,7 @@ Categories: Metadata Mapping/Conversion/normalisation, Collection Management, Me
 An open-source, web-based 'multi-up' viewer that supports zoom-pan-rotate functionality, ability to display/compare simple images, and images with annotations
 
 Activity types: Presenting
+
 Development: Stanford University
 
 http://projectmirador.org/
@@ -2579,6 +2715,7 @@ Categories: Media Applications, Media Annotation/Tagging
 Modern JPEG encoder designed to reduce the size and load time of webpages that carry a lot of pictures. It has been announced in March 2014 and is today supported by big Websites like Facebook and used in tools like ImageOptim. Mozjpeg supports optimized Huffmann table, custom quanitization matrices and modern techniques like trellis quantization while maintaining the same values for the structured similarity index (SSIM).
 
 Activity types: Encoding
+
 Development: Josh Aas,
 Mozilla research
 
@@ -2598,6 +2735,7 @@ Categories:
 Muse Open Source is a free software platform for publishing native iPad apps for digital libraries with cultural heritage content. 
 
 Activity types: Publishing
+
 Development: Glimworm IT
 
 http://muse-opensource.org/
@@ -2623,6 +2761,7 @@ first to use these chords in this order,” or “I’ll bet we’d know more
 about Renaissance counterpoint (or Indian ragas or post-tonal pitch structures or the form of minuets) if I could write a program to automatically write more of them,” then music21 can help you with your work.
 
 Activity types: Seeking
+
 Development: MIT
 
 http://web.mit.edu/music21/
@@ -2640,6 +2779,7 @@ Categories: Data Visualization
 The Scholars’ Lab designed Neatline as a suite of plugins for the open-source Omeka framework, which provides a powerful platform for content management and web publication. Through Neatline, you can create create rich representations of places, objects, events, narratives, and documents.
 
 Activity types: Managing, Publishing, Presenting
+
 Development: Adam Soroka
 
 http://neatline.org/
@@ -2660,6 +2800,7 @@ Categories: Exhibition Management, Social Applications, Media Annotation/Tagging
 NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.
 
 Activity types: Machine Learning
+
 Development: Standford University
 
 http://cs.stanford.edu/people/karpathy/deepimagesent/
@@ -2686,6 +2827,7 @@ Nodel is typically used to control digital media in galleries, museums, corporat
 In short, Nodel can manage any programmable device across a wide range of platforms.
 
 Activity types: Managing
+
 Development: Museum Victoria 
 
 http://nodel.io/
@@ -2705,6 +2847,7 @@ NotreDAM is a multi-user, web-based Digital Asset Management platform
 
 Activity types: Managing
 
+
 www.notredam.org
 http://code.google.com/p/notredam/
 
@@ -2721,6 +2864,7 @@ Categories: Collection Management, Digital Asset Management, Metadata Retrival S
 Numishare is an open source suite of applications for managing digital cultural heritage artifacts, with a particular focus on coins and medals.
 
 Activity types: Managing
+
 Development: Ethan Gruber, American Numismatic Society
 
 http://numishare.blogspot.com/
@@ -2742,6 +2886,7 @@ http://numismatics.org/ocre/
 Nuxeo provides a modular, extensible Java-based open source software platform for enterprise content management, and packaged applications for document management, digital asset management and case management.
 
 Activity types: Managing
+
 Development: Nuxeo
 
 http://www.nuxeo.com
@@ -2762,6 +2907,7 @@ Optical character recognition program hat can convert scanned images of text bac
                                 
 
 Activity types: Data Recognition
+
 Development: Kevin Kwok
 
 http://antimatter15.github.io/ocrad.js/demo.html
@@ -2780,6 +2926,7 @@ Categories: Content Retrieval Services, Digital Asset Management, Image Similari
 A high-performance, feature-packed library for all your mapping needs
 
 Activity types: Visualizing
+
 Development: OpenLayers
 
 http://openlayers.org/
@@ -2798,6 +2945,7 @@ Categories: Geo-spatial Apllications
 OpenLayers - Cesium integration library. Create your map using OpenLayers 3, and visualize it on a globe with Cesium.
 
 Activity types: Visualizing
+
 Development: OpenLayers
 
 http://blog.klokantech.com/2014/11/ol3-cesium-third-dimension-for.html
@@ -2816,6 +2964,7 @@ Categories: Geo-spatial Apllications
 A Collection/Exhibition Management System
 
 Activity types: Publishing
+
 Development: Roy Rosenzweig Center for History and New Media, George Mason University
 
 http://omeka.org/
@@ -2834,6 +2983,7 @@ Categories: Exhibition Management, Collection Management
 A multisite reworking of Omeka on newer tech standards and aiming at interoperability with more systems
 
 Activity types: Publishing
+
 Development: Roy Rosenzweig Center for History and New Media, George Mason University
 
 https://github.com/omeka/omeka-s/
@@ -2850,6 +3000,7 @@ Categories: Exhibition Management
 Makes an Omeka site into one that accepts public contributions. The plugin provides a form to collect stories, images, or other files from the public and manages those contributions in your Omeka archive as items.
 
 Activity types: Publishing
+
 Development: Center for History and New Media, George Mason University
 
 http://omeka.org/codex/Plugins/Contribution
@@ -2867,6 +3018,7 @@ Categories: Exhibition Management, Interactive User Interface, Social Applicatio
 Mulititouch and multiuser software 
 
 Activity types: Collaborating
+
 Development: Ideum
 
 http://openexhibits.org/
@@ -2884,6 +3036,7 @@ Categories: Interactive User Interface, Exhibition Management
 Data on more than 100 open licenses. Including all OSI-approved open source licenses and all Open Definition conformant open data and content licenses. Provided in easy to use, machine readable JSON -- perfect if you need to drop a license chooser into your app.
 
 Activity types: Seeking
+
 Development: Open Knowledge Foundation
 
 http://licenses.opendefinition.org/
@@ -2901,6 +3054,7 @@ Categories: Linked Open Data, Content Retrival Services
 Open Monograph Press is an open source software platform for managing the editorial workflow required to see monographs, edited volumes and, scholarly editions through internal and external review, editing, cataloguing, production, and publication. OMP can operate, as well, as a press website with catalog, distribution, and sales capacities.
 
 Activity types: Managing, Editing, Cataloguing, Producing, Publishing
+
 Development: Public Knowledge Project
 
 https://pkp.sfu.ca/omp/
@@ -2918,6 +3072,7 @@ Categories: Collection Management
 An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
 
 Activity types: Editing, Browsing
+
 
 http://openseadragon.github.io/
 https://github.com/openseadragon/openseadragon
@@ -2937,6 +3092,7 @@ Categories: Media Applications
 A Ruby client for searching and retrieving SKOS concepts from an OpenSKOS instance over its RESTful API
 
 Activity types: Retrieving 
+
 Development: Europeana
 
 https://github.com/europeana/openskos-client-ruby
@@ -2954,6 +3110,7 @@ Categories: Linked Open Data
 palette-server is a small Flask based HTTP-pony to extract colours from an image.
 
 Activity types: Data Recognition, Extracting Data
+
 Development: Cooper Hewitt
 
 http://labs.cooperhewitt.org/2013/giv-do/
@@ -2971,6 +3128,7 @@ Categories: Content Retrieval Services, Search and Browsing, Image Search
 pdf2htmlEX renders PDF files in HTML, utilizing modern Web technologies, aims to provide an accuracy rendering, while keeping optimized for Web display. 
 
 Activity types: Conversioning
+
 Development: Lu Wang
 
 http://coolwanglu.github.io/pdf2htmlEX/
@@ -2991,6 +3149,7 @@ Categories: Semantic Extraction, Publication
 PDFMiner is a tool for extracting information from PDF documents.
 
 Activity types: Machine Learning, Extracting Data
+
 Development: Yusuke Shinyama
 
 https://euske.github.io/pdfminer/
@@ -3010,6 +3169,7 @@ Categories: Content Retrieval Services, Semantic Extraction
 Pencil Case is an appweb which offers tools for designers & developers. It showcases over 750 resources in design, development, learning, productivity, collaboration, publishing, testing, and more - all tracked by popularity in realtime.
 
 Activity types: Seeking
+
 Development: Pencil Case
 
 http://pencilcaseapp.com/
@@ -3026,6 +3186,7 @@ Categories: Collection Management, Digital Asset Management
 Plumi is a free open-source video-sharing app based on Plone
 
 Activity types: Resource Sharing
+
 Development: EngageMedia in collaboration with Unweb.me
 
 http://blog.plumi.org/
@@ -3046,6 +3207,7 @@ http://demo.plumi.org/
 Popcorn.js is a Mozilla's HTML5 video and media library for the open web. It allows web developers, filmmakers, artists, designers and others to easily create timeline based web productions. Popcorn.js helps simplify media API and implementation differences between browsers and includes a powerful event system and a rich plugin architecture and plugins.
 
 Activity types: Web-developing 
+
 Development: Mozilla
 
 http://popcornjs.org/
@@ -3066,6 +3228,7 @@ Posest is a library for 3D camera pose estimation implemented in C.
 Posest is a C/C++ Library for Robust 6DoF Pose Estimation from 3D-2D Correspondences
 
 Activity types: Analyzing
+
 Development: Manolis Lourakis (FORTH)
 The development of posest has been partially supported by the EC FP7 programme under grant no. 270138 DARWIN
 
@@ -3084,6 +3247,7 @@ Categories: Media Applications
 Pundit is a semantic web annotation tool. It allows user to create structured data in their annotations by creating semantic relations between different kind of items, being them portions of texts in a web page, images, Linked Data entities or entries from a custom vocabulary. Annotations can be private or public and can be consumed by external applications via REST API.
 
 Activity types: Annotating
+
 Development: Net7
 
 http://thepund.it
@@ -3103,6 +3267,7 @@ Categories: Semantic Enrichment, Data Annotation/Curation, Linked Open Data
 Public Domain Calculator - determine what is public domain and what's not.
 
 Activity types: Filtering
+
 Development: Open Knowledge Foundation
 
 http://publicdomainworks.net/
@@ -3120,6 +3285,7 @@ Categories: Search and Browsing, Content Retrival Services, Metadata Retrival Se
 PyBossa is an open source platform for crowd-sourcing online (volunteer) assistance to perform tasks that require human cognition, knowledge or intelligence (e.g. image classification, transcription, information, location etc).
 
 Activity types: Crowdsourcing
+
 Development: Shuttleworth
 OKFN
 Scifabric
@@ -3141,6 +3307,7 @@ Categories: Digital Asset Management, Media Annotation/Tagging, Social Applicati
 Pymarc is a python library for working with bibliographic data encoded in MARC21. It should work under python 2.x and 3.x. It provides an API for reading, writing and modifying MARC records. It was mostly designed to be an emergency eject seat, for getting your data assets out of MARC and into some kind of saner representation.
 
 Activity types: Organizing, Bibliographic Management
+
 Development: Gabriel Farrell, Mark Matienzo, Geoffrey Spear, Ed Summers
 
 http://pypi.python.org/pypi/pymarc
@@ -3159,6 +3326,7 @@ Categories: Data Annotation/Curation
 A Q2A site helps your online community to share knowledge. People with questions get the answers they need. The community is enriched by commenting, voting, notifications, points and rankings.
 
 Activity types: Consulting
+
 Development: Gideon Greenspan
 
 http://www.question2answer.org/
@@ -3178,6 +3346,7 @@ Categories: Collection Management
 this tool returns all the triples in the file and verbosely lists each of their predicate and object values. Quick and easy.  This is a good for reading everything about a particular resource. The tool does not seem to support content negotiation.
 
 Activity types: Browsing
+
 Development: Christopher Gutteridge & University of Southampton
 
 http://graphite.ecs.soton.ac.uk/browser/
@@ -3200,6 +3369,7 @@ http://dbpedia.org/resource/Southampton
 Open source digital asset management
 
 Activity types: Managing
+
 Development: Razuna
 
 http://razuna.org/
@@ -3217,6 +3387,7 @@ Categories: Digital Asset Management
 a Google Refine extension for exporting RDF
 
 Activity types: Validating, Extracting Data
+
 Development: Fadi Maali and Richard Cyganiak
 
 refine.deri.ie
@@ -3234,6 +3405,7 @@ Categories: Data Visualization, Collection Management
 RDF.rb is a pure-Ruby library for working with Resource Description Framework (RDF) data.
 
 Activity types: Managing
+
 Development: Arto Bendiken, Ben Lavender, Gregg Kellogg
 
 https://rubygems.org/gems/rdf
@@ -3251,6 +3423,7 @@ Categories: Collection Management
 A Chrome extension which allows you to view, search, graph and map CSV files in the browser
 
 Activity types: Seeking, Visualizing
+
 Development: Rufus Pollock
 
 https://chrome.google.com/webstore/detail/recline-csv-viewer/ibfcfelnbfhlbpelldnngdcklnndhael
@@ -3268,6 +3441,7 @@ Categories: Data Visualization
 A simple but powerful library for building data applications in pure Javascript and HTML.
 
 Activity types: Programming
+
 Development: Max Ogden, Rufus Pollock
 
 http://reclinejs.com/
@@ -3288,6 +3462,7 @@ A metadata record management system written in PHP, intended to be used in conju
 
 Activity types: Managing
 
+
 https://github.com/KDK-Alli/RecordManager
 https://github.com/KDK-Alli/RecordManager/wiki
 
@@ -3302,6 +3477,7 @@ Categories: Collection Management
 ReSearcher is an award-winning integrated suite of open source products for locating and managing electronic information resources, designed for use by students and researchers in academic libraries.
 
 Activity types: Managing, Locating
+
 Development: Simon Fraser University Library
 
 http://researcher.sfu.ca/
@@ -3318,6 +3494,7 @@ Categories: Search and Browsing, Digital Asset Management
 ResourceSpace is a web-based, open source digital asset management system (DAM)
 
 Activity types: Managing
+
 Development: Montala (under contract with Oxfam)
 
 http://www.resourcespace.org
@@ -3338,6 +3515,7 @@ Retailer is a platform for web applications written in XSLT.
 Essentially it is a kind of XML transforming web proxy, able to present a RESTful API as another API. 
 
 Activity types: Web-developing, Presenting
+
 Development: Conal Tuohy
 
 https://github.com/Conal-Tuohy/Retailer
@@ -3355,6 +3533,7 @@ Categories: Metadata Retrieval Services
 Roundware is a flexible, distributed framework which collects, stores, organizes and re-presents audio content.
 
 Activity types: Seeking, Archiving,  Presenting
+
 Development: http://www.roundware.org/category/team/
 
 http://www.roundware.org/
@@ -3372,6 +3551,7 @@ Categories: Digital Asset Management
 A Ruby library to parse, create and manage MARC records
 
 Activity types: Parsing, Producing, Managing
+
 Development: University of Michigan
 
 https://github.com/ruby-marc/ruby-marc
@@ -3390,6 +3570,7 @@ Categories: Digital Asset Management
 The Sanddragon Image Service is a WCF (Windows Communication Foundation) web service which implements the IIIF image API, deployed on Microsoft's IIS (Internet Information Server)
 
 Activity types: Visualizing
+
 Development: British Library
 
 http://sanddragon.bl.uk/#home
@@ -3408,6 +3589,7 @@ Categories: Exhibition Management, Media Applications
 The Sanddragon Item Viewer is an item navigation control, enabling navigation between a set of images working with the Sanddragon widget.
 
 Activity types: Managing, Browsing
+
 Development: British Library
 
 http://sanddragon.bl.uk/#home
@@ -3426,6 +3608,7 @@ Categories: Exhibition Management
 The Sanddragon Widget is an image viewer that is based upon Open Seadragon which has been modified to work with an IIIF server, such as the Sanddragon Image Service.
 
 Activity types: Managing, Browsing
+
 Development: British Library
 
 http://sanddragon.bl.uk/#home
@@ -3444,6 +3627,7 @@ Categories: Exhibition Management
 scikit-learn is a Python module for machine learning built on top of SciPy
 
 Activity types: Machine Learning
+
 Development: David Cournapeau, Google
 
 http://scikit-learn.org/stable/
@@ -3462,6 +3646,7 @@ A visualization of the amount of notes played in each score
 
 
 Activity types: Visualizing
+
 Development: David Oliveri
 
 https://github.com/davideoliveri/ScoreToChart/
@@ -3481,6 +3666,7 @@ Categories: Data Visualization
 Build virtual shelves for book/cd/record/film collections using linked data 
 
 Activity types: Managing
+
 Development: Harvard Library Innovation Lab
 
 http://shelf.io/
@@ -3498,6 +3684,7 @@ Categories: Data Visualization, Linked Open Data, Social Applications
 Javascript framework to enable annotating of diverse media from diverse sources
 
 Activity types: Annotating
+
 Development: Columbia Center for New Media Teaching and Learning
 
 https://github.com/ccnmtl/SherdJS
@@ -3514,6 +3701,7 @@ Categories: Media Annotation/Tagging
 Sigil is a free, open source, multi-platform e-book editor, designed for editing books in EPUB format. 
 
 Activity types: Editing
+
 Development: Strahinja Marković, John Schember
 
 http://sigil-ebook.com/
@@ -3531,6 +3719,7 @@ Categories: Publication
 shannon-server is a small WSGI-compliant httpony to calculate the Shannon Entropy for a given image.
 
 Activity types: Measuring
+
 Development: Cooper Hewitt
 
 http://labs.cooperhewitt.org/2013/default-sort-or-what-would-shannon-do/
@@ -3547,6 +3736,7 @@ Categories: Digital Asset Management, Image Search
 SobekCM allows users to discover online resources via semantic and full-text searches, as well as a variety of different browse mechanisms. For each digital resource in the repository there are a plethora of display options, which may be selected by an appropriately authenticated use. This repository includes online metadata editing and online submissions in support of institutional repositories.
 
 Activity types: Browsing, Visualizing, Editing
+
 Development: Mark Sullivan
 
 http://ufdc.ufl.edu/sobekcm
@@ -3563,6 +3753,7 @@ Categories: Content Retrieval Services, Collection Management, Search and Browsi
 SOCH (Swedish Open Cultural Heritage) is a web service used to search and retrieve data from any organisation holding information or media relating to Swedish cultural heritage. The Swedish name for SOCH is “K-samsök”, which can be translated as “Cultural cross-search”.
 
 Activity types: Browsing, Retrieving
+
 Development: K-Samsök
 
 http://www.ksamsok.se/in-english/
@@ -3578,6 +3769,7 @@ Categories: Metadata Retrieval Services, Linked Open Data
 Enterprise search platform
 
 Activity types: Browsing
+
 Development: James Casbon
 
 http://lucene.apache.org/solr/
@@ -3599,6 +3791,7 @@ It can be used either to access existing RDF data in a resource-oriented way,
 or to create a new store of RDF data based on simple defaults.
 
 Activity types: Managing
+
 Development: RubyGems
 
 https://rubygems.org/gems/spira
@@ -3623,6 +3816,7 @@ and to build media-rich feature pages to better contextualize their
 collections.
 
 Activity types: Editing, Web-Developing
+
 Development: Chris Beer 
 
 https://github.com/sul-dlss/spotlight
@@ -3645,6 +3839,7 @@ researchers, teachers, scholars, and students to find what they need and
     
 
 Activity types: Browsing
+
 Development: Harvard Library Innovation Lab
 
 http://stacklife.harvard.edu/explainer.php
@@ -3663,6 +3858,7 @@ Categories: Collection Management
 Library collection visualization tool. Color codes and organizes books based on popularity and use. 
 
 Activity types: Visualizing
+
 Development: Harvard Library Innovation Lab
 
 http://librarylab.law.harvard.edu/blog/stack-view/
@@ -3681,6 +3877,7 @@ Stanford NER is a Java implementation of a Named Entity Recognizer.
 
 Activity types: Named Entity Recognition
 
+
 http://nlp.stanford.edu/software/CRF-NER.shtml
 http://nlp.stanford.edu/software/CRF-NER.shtml#Download
 
@@ -3697,6 +3894,7 @@ Categories: Metadata Mapping/Conversion/normalisation, Metadata Retrival Service
  Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words, their parts of speech, whether they are names of companies, people, etc., normalize dates, times, and numeric quantities, and mark up the structure of sentences in terms of phrases and word dependencies, and indicate which noun phrases refer to the same entities, etc. Stanford CoreNLP is an integrated framework, which make it very easy to apply a bunch of language analysis tools to a piece of text. Starting from plain text, you can run all the tools on it with just two lines of code. Its analyses provide the foundational building blocks for higher-level and domain-specific text understanding applications. 
 
 Activity types: Analyzing
+
 Development: Standford 
 
 http://nlp.stanford.edu/software/corenlp.shtml
@@ -3714,6 +3912,7 @@ Categories: Ontology/Vocabulary Building and Management
 The Structify tool is a graphical tool for viewing and editing METS files and creating or correcting structural metadata. It requires Java and is available for Windows, Linux and OSX.
 
 Activity types: Editing
+
 Development: University of Innsbruck
 
 http://dbis-halvar.uibk.ac.at/dokuwiki/doku.php?id=main:structify
@@ -3730,6 +3929,7 @@ Categories: Publication, Data Annotation/Curation, Collection Management
 StoryMapJS is a free tool to help you tell stories on the web that highlight the locations of a series of events.
 
 Activity types: Locating, Visualizing
+
 Development: Northwestern University Knight Lab
 
 http://storymap.knightlab.com/
@@ -3747,6 +3947,7 @@ Categories: Geo-spatial Apllications, Media Applications, Data Visulaisation
 SubjectsPlus is a free and open source tool to help you manage several interrelated parts of your library website.
 
 Activity types: Managing
+
 Development: Joyner Library East Carolina University/ University of Miami Libraries
 
 http://www.subjectsplus.com/
@@ -3764,6 +3965,7 @@ Categories: Collection Management, Digital Asset Management
 Supplejack is DigitalNZ's tool for aggregating, searching and sharing metadata records. Supplejack is used to collect metadata about millions of items, from hundreds of data sources, across many different data formats including HTML, RSS, XML, OAI-PMH and RDF/XML. It transforms messy data, creates a unified search index and makes consistent metadata widely available via an open API data service. It was built using open source technology by DigitalNZ and the National Library of New Zealand. 
 
 Activity types: Seeking, Organizing, Resource Sharing
+
 Development: DigitalNZ
 
 http://www.digitalnz.org/developers/supplejack
@@ -3781,6 +3983,7 @@ Categories: Metadata Retrieval Services, Metadata Mapping/Conversation/normalisa
 Tabula is a tool for liberating data tables trapped inside PDF files.
 
 Activity types: Extracting Data
+
 Development: Manuel Aristarán
 
 http://tabula.nerdpower.org/
@@ -3797,6 +4000,7 @@ Categories: Semantic Extraction
 The TV Application Layer (TAL) is an open source library for building applications for Connected TV devices.
 
 Activity types: Programming
+
 Development: BBC Future Media Platforms
 
 http://fmtvp.github.io/tal/getting-started/introducing-tal.html
@@ -3815,6 +4019,7 @@ Categories: Media Applications
 TAP is a collection of free and open-source tools which support the creation and delivery of mobile tours. Currently TAP consists of authoring tools built on top of the content management system Drupal, a native iOS mobile application, and a web-based mobile application built upon the jQuery Mobile library. 
 
 Activity types: Programming
+
 Development: IMA Museums 
 
 http://tapintomuseums.org/TAP
@@ -3832,6 +4037,7 @@ Categories: Exhibition Management
 Telemeta is a free and open source web audio archiving software which introduces useful and secure methods to organize, backup, index, transcode, analyse, share and publish any digitalized audio or video file with extensive metadata in accordance with open web standards. It is dedicated to collaborative media archiving projects, research laboratories, librairies and digital humanities.
 
 Activity types: Archiving, Indexing, Archiving, Resource Sharing, Analyzing
+
 Development: Guillaume Pellerin, Thomas Fillon
 
 http://telemeta.org
@@ -3851,6 +4057,7 @@ Categories: Collection Management, Digital Preservation, Media Annotation/Taggin
 TemaTres is an open source vocabulary server, web application to manage and exploit vocabularies, thesauri, taxonomies and formal representations of knowledge.
 
 Activity types: Adding Metainformation
+
 Development: Diego Ferreyra
 
 http://www.vocabularyserver.com/
@@ -3869,6 +4076,7 @@ Categories: Ontology/Vocabulary Building and Management, Collection Management
 Tesseract is probably the most accurate open source OCR engine available. Combined with the Leptonica Image Processing Library it can read a wide variety of image formats and convert them to text in over 60 languages.
 
 Activity types: Conversioning
+
 Development: Ray Smith
 
 https://github.com/tesseract-ocr/tesseract
@@ -3886,6 +4094,7 @@ Categories: Collection Management, Digital Asset Management, Ontology/Vocabulary
 An RDF and semantic search web server based on Prolog
 
 Activity types: Browsing
+
 Development: Friedrich Lindenberg
 
 http://e-culture.multimedian.nl/software/ClioPatria.shtml
@@ -3904,6 +4113,7 @@ Categories: Search and Browsing
 A freely available tool that allows librarians to quickly and easily create online, interactive tutorials that are based on the principles of authentic and active learning
 
 Activity types: Web-Developing
+
 Development: Leslie Sult, Justin Spargur, Gregory Hagedon, and Ginger Bidwell at the University of Arizona Libraries
 
 http://code.library.arizona.edu/gots/
@@ -3923,6 +4133,7 @@ Categories: Social Applications, Collection Management, Linked Open Data
 TimelineJS is an open-source tool that enables you to build visually-rich interactive timelines and is available in 40 languages.
 
 Activity types: Visualizing
+
 Development: Northwestern University Knight Lab
 
 http://timeline.knightlab.com/
@@ -3945,6 +4156,7 @@ Categories: Exhibition Management, Data Annotation/Curation, Media Applications
 Timeliner is a simple javascript app to create and share timelines and timemaps build using ReclineJS.
 
 Activity types: Visualizing, Resource Sharing
+
 Development: Rufus Pollock
 
 http://timemapper.okfnlabs.org/
@@ -3965,6 +4177,7 @@ Categories: Exhibition Management
 Tools for reading MARC records, transforming them with indexing rules, and indexing to Solr.
 
 Activity types: Browsing, Modifying, Indexing
+
 Development: Jonathan Rochkind (Johns Hopkins Libraries), Bill Dueber (University of Michigan Libraries)
 
 https://github.com/traject-project/traject/
@@ -3986,6 +4199,7 @@ Categories: Collection Management, Metadata Mapping/Conversation/normalisation
 A Drupal 7 search module for Opensearch compatible resources.
 
 Activity types: Web-Developing
+
 Development: University of North Texas
 
 https://github.com/unt-libraries/untdl_opensearch
@@ -4003,6 +4217,7 @@ The Universal Viewer is an open source project to enable cultural heritage
 institutions to present their digital artifacts in an IIIF-compliant and highly customisable user interface
 
 Activity types: Visualizing, Publishing
+
 Development: Edward Silverton 
 
 https://github.com/UniversalViewer/universalviewer
@@ -4024,6 +4239,7 @@ Make smart decisions with a data management system that rapidly collects
  data from the crowd and visualizes what happened, when and where.
 
 Activity types: Managing, Browsing, Visualizing
+
 Development: Ushahidi
 
 http://www.ushahidi.com/blog/product/ushahidi/
@@ -4041,6 +4257,7 @@ Categories: Data Visualization, Geo-spatial Apllications, Social Applications
 VIVO enables the discovery of researchers across institutions. Participants in the network include institutions with local installations of VIVO or those with research discovery and profiling applications that can provide semantic web!-compliant data. The information accessible through VIVO's search and browse capability will reside and be controlled locally, within institutional VIVOs or other semantic web-compliant applications.
 
 Activity types: Networking
+
 Development: Cornell University
 
 http://vivoweb.org/about
@@ -4059,6 +4276,7 @@ VoxForge was set up to collect transcribed speech for use with Free and  Open So
 
 Activity types: Archiving
 
+
 http://www.voxforge.org/home
 http://www.voxforge.org/home/dev
 
@@ -4073,6 +4291,7 @@ Categories: Ontology/Vocabulary Building and Management
 Library resource portal.
 
 Activity types: Archiving
+
 Development: Villanova University's Falvey Memorial Library.
 
 http://vufind.org/
@@ -4093,6 +4312,7 @@ Categories: Collection Management
 Content management system designed for the Royal Academy of Art focused on flexibility and user experience. Light, fast, agile, portable. 
 
 Activity types: Managing
+
 Development: Torchbox
 
 wagtail.io
@@ -4109,6 +4329,7 @@ Categories: Collection Management
 Wandora is a general purpose information extraction, management and publishing application based on Topic Maps and Java.
 
 Activity types: Managing, Publishing, Extracting Data
+
 Development: Wandora Team
 
 http://www.wandora.org
@@ -4128,6 +4349,7 @@ Categories: Collection Management, Metadata Retrival Services, Metadata Mapping/
 Tool for archiving websites
 
 Activity types: Archiving
+
 Development: the IIPC consortium
 
 http://netpreserve.org/netpreserve.org/tools/openwayback
@@ -4144,6 +4366,7 @@ Categories: Digital Preservation
 Weka is a collection of machine learning algorithms for data mining tasks. The algorithms can either be applied directly to a dataset or called from your own Java code. Weka contains tools for data pre-processing, classification, regression, clustering, association rules, and visualization. It is also well-suited for developing new machine learning schemes.
 
 Activity types: Machine Learning, Data Mining
+
 Development: The University of Waikato
 
 http://www.cs.waikato.ac.nz/ml/weka/
@@ -4160,6 +4383,7 @@ Categories: Metadata Retrieval Services
 Wikipedia.JS is a small Javascript library for accessing information in Wikipedia articles such as dates, places, abstracts and more ...
 
 Activity types: Locating
+
 Development: Open Knowledge Foundation Labs (Rufus Pollock)
 
 http://okfnlabs.org/wikipediajs/
@@ -4179,6 +4403,7 @@ with the WorldCat Search API, the xID (xISBN, xISSN, and xOCLCNUM) APIs, and
 lookups using the WorldCat Registry API.
 
 Activity types: Seeking
+
 Development: OCLC
 
 https://www.worldcat.org/advancedsearch
@@ -4197,6 +4422,7 @@ xDams is a web based platform
 for creating, managing and publishing finding aids EAD and EAC-CPF schema compliant.
 
 Activity types: Producing, Managing, Publishing
+
 Development: http://www.regesta.com/
 
 http://www.xdams.org/
@@ -4218,6 +4444,7 @@ Categories: Metadata Retrieval Services, Collection Management, Exhibition Manag
 xEAC is an XForms-based prosopographical information management system for creating and publishing Encoded Archival Context (EAC-CPF) records. A companion tool is EADitor for editing EAD (encoded archival description) records
 
 Activity types: Managing, Producing, Publishing
+
 Development: Ethan Gruber, American Numismatic Society
 
 https://github.com/ewg118/xEAC
@@ -4236,6 +4463,7 @@ Categories: Collection Management, Publication
 The eXtensible Text Framework (XTF) is a powerful open source platform for providing access to digital content.
 
 Activity types: Direct Accessing
+
 Development: California Digital Library (CDL)
 
 http://xtf.cdlib.org/
@@ -4248,9 +4476,5 @@ Categories: Content Retrieval Services
 * Code Quality: Building XTF from the Source Code is quite simple. Apache Ant is used to do it. The Java code looks good.
 * Examples: http://xtf.cdlib.org/xtf/
 * License: Mozilla Public License 1.0 (MPL), BSD License, Apache Software License
-
-
 * Last release: 7/27/2012
-
----
 
