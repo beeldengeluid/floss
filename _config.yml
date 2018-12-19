@@ -1,2 +1,10 @@
-theme: jekyll-theme-slate
-title: FLOSS inventory
+title: "#FLOSS inventory"
+email: gmarkus@beeldengeluid.nl
+description: >- # this means to ignore newlines until "baseurl:"
+  The FLOSS inventory lists all the Free Libre Open Source Software relevant to Europeana and the cultural heritage world.
+baseurl: "/floss" # the subpath of your site, e.g. /blog
+url: "https://beeldengeluid.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+collections:
+  inventory:
+    title: Inventory
+    output: true

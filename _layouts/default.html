@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>{{ site.title }}</title>
+	<meta name="description" content="{{ site.description }}">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css" rel="stylesheet">
+	<link href="http://fonts.googleapis.com/css?family=Lora:700" rel="stylesheet">
+	<link href="http://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+	<style type="text/css">
+		body {
+			font-family: 'Roboto', sans-serif;
+			text-rendering: optimizelegibility;
+			font-size: 16px;
+			line-height: 28px;
+			font-weight: 400;
+			padding-bottom: 40px;
+		}
+
+		h1, h2, h3 {
+			font-family: 'Lora', serif;
+			font-weight: 700;
+		}
+
+		.text-red {
+			color: #e11d53;
+		}
+
+		.well {
+			 min-height: 100px;
+			 overflow-x: hidden;
+		}
+
+		.logo {
+			padding-bottom: 20px;
+		}
+
+		.main {
+			overflow-wrap: break-word;
+			word-wrap: break-word;
+		}
+
+		@media only screen and (min-width : 768px) {
+			header {
+				width: 100%;
+				position: fixed;
+				background-color: #ffffff;
+				z-index: 1030;
+			}
+
+			.main {
+				padding-top: 210px
+			}
+
+			.main a {
+				max-width: 1000px;
+			}
+
+			.logo {
+				float: right;
+				padding-bottom: 0;
+			}
+
+			.anchor {
+				display: block; 
+				position: relative; 
+				top: -210px; 
+				visibility: hidden;
+			}
+		}
+	</style>
+</head>
+<body>
+<header>
+	<div class="container">
+		<div class="row">
+		<div class="col-lg-10 col-lg-offset-1">
+			<div class="page-header">
+				<h1><span class="text-red">#</span>FLOSS <small>inventory</small></h1>
+				<p class="text-muted">The FLOSS inventory lists all the Free Libre Open Source Software relevant to Europeana and the cultural heritage world.</p>
+			</div>
+			<div class="logo">
+				<a href="http://pro.europeana.eu/get-involved/europeana-tech/floss-inventory"><img src="europeana.png"></a>
+			</div>
+			<p>
+				&middot; <a href="#A">A</a> 
+				&middot; <a href="#B">B</a> 
+				&middot; <a href="#C">C</a> 
+				&middot; <a href="#D">D</a> 
+				&middot; <a href="#E">E</a> 
+				&middot; <a href="#F">F</a> 
+				&middot; <a href="#G">G</a> 
+				&middot; <a href="#H">H</a> 
+				&middot; <a href="#I">I</a> 
+				&middot; <a href="#J">J</a> 
+				&middot; <a href="#K">K</a> 
+				&middot; <a href="#L">L</a> 
+				&middot; <a href="#M">M</a> 
+				&middot; <a href="#N">N</a> 
+				&middot; <a href="#O">O</a> 
+				&middot; <a href="#P">P</a> 
+				&middot; <a href="#Q">Q</a> 
+				&middot; <a href="#R">R</a> 
+				&middot; <a href="#S">S</a> 
+				&middot; <a href="#T">T</a> 
+				&middot; <a href="#U">U</a> 
+				&middot; <a href="#V">V</a> 
+				&middot; <a href="#W">W</a> 
+				&middot; <a href="#X">X</a> 
+				&middot; <a href="#Y">Y</a> 
+				&middot; <a href="#Z">Z</a> 
+				&middot;
+			</p>
+			<hr>
+		</div>
+		</div>
+	</div>
+</header>
+<div class="main">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-10 col-lg-offset-1">
+			{% assign first_letter = '' %}
+			{% for item in site.inventory %}
+			{% assign first_letter_next = item.name | slice: 0 | capitalize %}
+			{% if first_letter_next != first_letter %}
+			{% assign first_letter = first_letter_next %}
+			<a class="anchor" name="{{ first_letter }}"></a>
+			{% endif %}
+			<article>
+				<h3>{{ item.name }}</h3>
+				{{ item.content }}
+				{% if item.nemoactivitytypes != nil %}
+				<p>{{ item.nemoactivitytypes }}</p>
+				{% endif %}
+				{% if item.developers != nil %}
+				<p>&mdash; {{ item.developers }} &mdash;</p>
+				{% endif %}
+				{% if item.projectwebsite != nil or item.coderepository != nil %}
+				<p>
+					{% if item.projectwebsite != nil %}
+					<a href="{{ item.projectwebsite }}">{{ item.projectwebsite }}</a><br>
+					{% endif %}
+					{% if item.projectwebsite != nil %}
+					<a href="{{ item.coderepository }}">{{ item.coderepository }}</a><br>
+					{% endif %}
+				</p>
+				{% endif %}
+				<p>{{ item.categories | join: ", " }}</p>
+				<br>
+				<div class="row">
+					<div class="col-md-8">
+						<div class="well">
+							{% if item.qualityofdocumentation != nil %}
+							<p><strong>Quality of Documentation</strong><br>{{ item.qualityofdocumentation }}</p>
+							{% endif %}
+							{% if item.easeofadaptation != nil %}
+							<p><strong>Ease of Adaptation</strong><br>{{ item.easeofadaptation }}</p>
+							{% endif %}
+							{% if item.codequality != nil %}
+							<p><strong>Code Quality</strong><br>{{ item.codequality }}</p>
+							{% endif %}
+							{% if item.examples != nil %}
+							<p><strong>Examples</strong><br>{{ item.examples }}</p>
+							{% endif %}
+						</div>
+						<br>
+					</div>
+					<div class="col-md-4">
+						<div class="well">
+							{% if item.license != nil %}
+							<p><strong>License</strong><br>{{ item.license }}</p>
+							{% endif %}
+							{% if item.lastrelease != nil %}
+							<p><strong>Last release</strong><br>{{ item.lastrelease }}</p>
+							{% endif %}
+							{% if item.lastactivity != nil %}
+							<p><strong>Last activity</strong><br>{{ item.lastactivity }}</p>
+							{% endif %}
+						</div>
+						<br>
+					</div>
+				</div>
+			</article>
+			<hr>
+			<br>
+			{% endfor %}
+			</div>
+		</div>
+	</div>
+</div>
+<footer class="text-center text-muted">
+	<small>Data by EuropeanaTech</small>
+</footer>
+</body>
+</html>
